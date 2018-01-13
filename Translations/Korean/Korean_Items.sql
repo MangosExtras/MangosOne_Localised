@@ -17025,8 +17025,8 @@ UPDATE locales_item SET name_loc1='지옥껍질' WHERE entry=25700; /* name: Fel
 UPDATE locales_item SET name_loc1='응보의 가슴보호갑' WHERE entry=25701; /* name: Breastplate of Retribution */
 UPDATE locales_item SET name_loc1='몰락의 미늘 다리보호구' WHERE entry=25702; /* name: Scaled Legs of Ruination */
 UPDATE locales_item SET name_loc1='얼룩말 가죽' WHERE entry=25703; /* name: Zhevra Leather */
-UPDATE locales_item SET name_loc1='루앙가의 명령서',description_loc1='날카롭고 각진 필체로 적혀 있습니다. 필체 자체에서 뭔가 단단히 화가 났다는 걸 느낄 수 있습니다.' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET name_loc1='루앙가의 명령서',description_loc1='날카롭고 각진 필체로 적혀 있습니다. 필체 자체에서 뭔가 단단히 화가 났다는 걸 느낄 수 있습니다.' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
+UPDATE locales_item SET name_loc1='루앙가의 명령서',description_loc1='날카롭고 각진 필체로 적혀 있습니다. 필체 자체에서 뭔가 단단히 화가 났다는 걸 느낄 수 있습니다.' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
+UPDATE locales_item SET name_loc1='루앙가의 명령서',description_loc1='날카롭고 각진 필체로 적혀 있습니다. 필체 자체에서 뭔가 단단히 화가 났다는 걸 느낄 수 있습니다.' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
 UPDATE locales_item SET name_loc1='지옥 통가죽' WHERE entry=25707; /* name: Fel Hide */
 UPDATE locales_item SET name_loc1='두꺼운 갈래발굽 가죽' WHERE entry=25708; /* name: Thick Clefthoof Leather */
 UPDATE locales_item SET name_loc1='달빛야수 머리장식' WHERE entry=25710; /* name: Moonkin Headdress */
