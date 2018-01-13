@@ -250,7 +250,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Master chef, can you tra
 UPDATE locales_gossip_menu_option SET option_text_loc9='Have you any cooking supplies?' WHERE menu_id=7171 AND id=1; /* option_text: Have you any cooking supplies? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='You\'re free to go now. The way out is safe.' WHERE menu_id=7176 AND id=0; /* option_text: You\'re free to go now. The way out is safe. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='<Administer the restorative draught.>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
-UPDATE locales_gossip_menu_option SET option_text_loc9='A bit ungrateful, aren\'t we? The way out is clear, flee quickly!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we? The way out is clear, flee quickly! */
+UPDATE locales_gossip_menu_option SET option_text_loc9='A bit ungrateful, aren\'t we?  The way out is clear, flee quickly!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='<Administer the restorative draught.>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc9='<Administer the restorative draught.>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc9='You\'re free to go now. The way out is safe.' WHERE menu_id=7186 AND id=0; /* option_text: You\'re free to go now. The way out is safe. */
