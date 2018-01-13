@@ -15424,7 +15424,7 @@ UPDATE locales_item SET name_loc6='Daga de sacrificios Amani' WHERE entry=23923;
 UPDATE locales_item SET name_loc6='Togas de Lunargenta' WHERE entry=23924; /* name: Robes of Silvermoon */
 UPDATE locales_item SET name_loc6='Llave de jaula de devastador' WHERE entry=23925; /* name: Ravager Cage Key */
 UPDATE locales_item SET name_loc6='Escrito sobre divinidad' WHERE entry=23926; /* name: Tome of Divinity */
-UPDATE locales_item SET name_loc6='Pera de arena' WHERE entry=23927; /* name: Sand Pear */ /* description: A bright, juicy fruit favored by the elekk. */
+UPDATE locales_item SET name_loc6='Pera de arena',description_loc6='Una fruta brillante, jugosa favorada por los elekk.' WHERE entry=23927; /* name: Sand Pear */ /* description: A bright, juicy fruit favored by the elekk. */
 UPDATE locales_item SET name_loc6='Las órdenes del exarca' WHERE entry=23928; /* name: The Exarch\'s Orders */ /* description: Sealed. */
 UPDATE locales_item SET name_loc6='Carta de Lor\'themar Theron' WHERE entry=23929; /* name: Letter from Lor\'themar Theron */
 UPDATE locales_item SET name_loc6='Carta sellada por Sylvanas' WHERE entry=23930; /* name: Letter Sealed by Sylvanas */
@@ -17028,8 +17028,8 @@ UPDATE locales_item SET name_loc6='Escamas viles' WHERE entry=25700; /* name: Fe
 UPDATE locales_item SET name_loc6='Coraza de reprensión' WHERE entry=25701; /* name: Breastplate of Retribution */
 UPDATE locales_item SET name_loc6='Pantalones escamados de estrago' WHERE entry=25702; /* name: Scaled Legs of Ruination */
 UPDATE locales_item SET name_loc6='Piel de zhebra' WHERE entry=25703; /* name: Zhevra Leather */
-UPDATE locales_item SET name_loc6='Órdenes de Luanga' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET name_loc6='Órdenes de Luanga' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
+UPDATE locales_item SET name_loc6='Órdenes de Luanga',description_loc6='Un documento impreso con caracteres angulosos y nítidos. El propio escrito parece contener ira en ebullición.' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
+UPDATE locales_item SET name_loc6='Órdenes de Luanga',description_loc6='Un documento impreso con caracteres angulosos y nítidos. El propio escrito parece contener ira en ebullición.' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
 UPDATE locales_item SET name_loc6='Pellejo vil' WHERE entry=25707; /* name: Fel Hide */
 UPDATE locales_item SET name_loc6='Cuero de uñagrieta grueso' WHERE entry=25708; /* name: Thick Clefthoof Leather */
 UPDATE locales_item SET name_loc6='Ornato de lechúcico lunar' WHERE entry=25710; /* name: Moonkin Headdress */

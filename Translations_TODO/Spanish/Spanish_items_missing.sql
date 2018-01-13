@@ -347,7 +347,6 @@ UPDATE locales_item SET description_loc6='His eyes are full of hatred.' WHERE en
 UPDATE locales_item SET description_loc6='A box filled with a variety of building materials, first aid supplies, and other items for the Blood Watch inn.' WHERE entry=23903; /* description: A box filled with a variety of building materials, first aid supplies, and other items for the Blood Watch inn. */
 UPDATE locales_item SET description_loc6='The reports are all signed by Keltus Darkleaf.' WHERE entry=23919; /* description: The reports are all signed by Keltus Darkleaf. */
 UPDATE locales_item SET description_loc6='The handkerchief is covered in blood and dirt, ruining its scent.' WHERE entry=23920; /* description: The handkerchief is covered in blood and dirt, ruining its scent. */
-UPDATE locales_item SET description_loc6='A bright, juicy fruit favored by the elekk.' WHERE entry=23927; /* description: A bright, juicy fruit favored by the elekk. */
 UPDATE locales_item SET description_loc6='Sealed.' WHERE entry=23928; /* description: Sealed. */
 UPDATE locales_item SET description_loc6='A draenei crystal containing information on the eastern part of Bloodmyst Isle.' WHERE entry=23932; /* description: A draenei crystal containing information on the eastern part of Bloodmyst Isle. */
 UPDATE locales_item SET description_loc6='A letter written by Anchorite Paetheus.' WHERE entry=23937; /* description: A letter written by Anchorite Paetheus. */
@@ -500,8 +499,6 @@ UPDATE locales_item SET description_loc6='Dark energies swirl within the orb.' W
 UPDATE locales_item SET description_loc6='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=25645; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc6='Used for managing smoke signals.' WHERE entry=25658; /* description: Used for managing smoke signals. */
 UPDATE locales_item SET description_loc6='Doesn\'t look unusual to you.' WHERE entry=25672; /* description: Doesn\'t look unusual to you. */
-UPDATE locales_item SET description_loc6='A document imprinted with a series of sharp, angular characters. The very script itself seems to see0' WHERE entry=25705; /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET description_loc6='A document imprinted with a series of sharp, angular characters. The very script itself seems to see0' WHERE entry=25706; /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
 UPDATE locales_item SET description_loc6='Teaches you how to make Heavy Knothide Leather.' WHERE entry=25720; /* description: Teaches you how to make Heavy Knothide Leather. */
 UPDATE locales_item SET description_loc6='Teaches you how to make a Vindicator\'s Armor Kit.' WHERE entry=25721; /* description: Teaches you how to make a Vindicator\'s Armor Kit. */
 UPDATE locales_item SET description_loc6='Teaches you how to make a Magister\'s Armor Kit.' WHERE entry=25722; /* description: Teaches you how to make a Magister\'s Armor Kit. */
