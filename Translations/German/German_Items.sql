@@ -17029,8 +17029,8 @@ UPDATE locales_item SET name_loc3='Teufelsschuppen' WHERE entry=25700; /* name: 
 UPDATE locales_item SET name_loc3='Brustplatte der Vergeltung' WHERE entry=25701; /* name: Breastplate of Retribution */
 UPDATE locales_item SET name_loc3='Schuppenbeinlinge der Zerstörung' WHERE entry=25702; /* name: Scaled Legs of Ruination */
 UPDATE locales_item SET name_loc3='Zhevraleder' WHERE entry=25703; /* name: Zhevra Leather */
-UPDATE locales_item SET name_loc3='Luangas Befehle' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET name_loc3='Luangas Befehle' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
+UPDATE locales_item SET name_loc3='Luangas Befehle' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
+UPDATE locales_item SET name_loc3='Luangas Befehle' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
 UPDATE locales_item SET name_loc3='Teufelsbalg' WHERE entry=25707; /* name: Fel Hide */
 UPDATE locales_item SET name_loc3='Dickes Grollhufleder' WHERE entry=25708; /* name: Thick Clefthoof Leather */
 UPDATE locales_item SET name_loc3='Mondkinkopfputz' WHERE entry=25710; /* name: Moonkin Headdress */
