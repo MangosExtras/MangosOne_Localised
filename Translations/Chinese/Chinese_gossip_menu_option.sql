@@ -1234,6 +1234,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买你的货物
 UPDATE locales_gossip_menu_option SET option_text_loc4='大厨师，你能教我做一手好菜吗？' WHERE menu_id=7171 AND id=0; /* option_text: Master chef, can you train me in the culinary arts? */
 UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么烹饪调料吗？' WHERE menu_id=7171 AND id=1; /* option_text: Have you any cooking supplies? */
 UPDATE locales_gossip_menu_option SET option_text_loc4='<给病人使用疗伤药膏。>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
+UPDATE locales_gossip_menu_option SET option_text_loc4='有点不舒服？出去的路很安全，快点跑吧！' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc4='<给病人使用疗伤药膏。>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc4='<给病人使用疗伤药膏。>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc4='给我看看你的商品，威尔海姆。' WHERE menu_id=7219 AND id=0; /* option_text: Show me your wares, Wilhelm. */
@@ -2051,7 +2052,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='请教教我。' WHERE m
 UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看哪里可以飞行' WHERE menu_id=9584 AND id=0; /* option_text: Show me where I can fly. */
 UPDATE locales_gossip_menu_option SET option_text_loc4='为什么我被送回了这个特别的地方和时间？' WHERE menu_id=9586 AND id=0; /* option_text: Why have I been sent back to this particular place and time? */
 UPDATE locales_gossip_menu_option SET option_text_loc4='好啊，请吧！' WHERE menu_id=9586 AND id=1; /* option_text: Yes, please! */
-UPDATE locales_gossip_menu_option SET option_text_loc4='克罗米，你和我都知道在这个时间流中会出什么事。我们以前都遇到过这种情形。你能不能略过这些部分，直接进入真正的行动？' WHERE menu_id=9586 AND id=2; /* option_text: Chromie, you and I both know what\'s going to happen in this time stream. We\'ve seen this all before. Can you just skip us ahead to all the real action? */
+UPDATE locales_gossip_menu_option SET option_text_loc4='克罗米，你和我都知道在这个时间流中会出什么事。我们以前都遇到过这种情形。你能不能略过这些部分，$B$B直接进入真正的行动？' WHERE menu_id=9586 AND id=2; /* option_text: Chromie, you and I both know what\'s going to happen in this time stream. We\'ve seen this all before.$B$BCan you just skip us ahead to all the real action? */
 UPDATE locales_gossip_menu_option SET option_text_loc4='这个决定是什么？' WHERE menu_id=9594 AND id=0; /* option_text: What was this decision? */
 UPDATE locales_gossip_menu_option SET option_text_loc4='永恒之龙打算如何破坏这一时间流呢？' WHERE menu_id=9595 AND id=0; /* option_text: So how does the Infinite Dragonflight plan to interfere? */
 UPDATE locales_gossip_menu_option SET option_text_loc4='龙饵，是吧？去吧，引诱冰雪风暴！' WHERE menu_id=9603 AND id=0; /* option_text: Wyrmbait, eh? Welp, go fetch us Icestorm! */

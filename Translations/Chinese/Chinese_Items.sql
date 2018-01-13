@@ -17106,8 +17106,8 @@ UPDATE locales_item SET name_loc4='魔鳞' WHERE entry=25700; /* name: Fel Scale
 UPDATE locales_item SET name_loc4='惩戒胸甲' WHERE entry=25701; /* name: Breastplate of Retribution */
 UPDATE locales_item SET name_loc4='缀鳞毁灭护腿' WHERE entry=25702; /* name: Scaled Legs of Ruination */
 UPDATE locales_item SET name_loc4='斑马皮' WHERE entry=25703; /* name: Zhevra Leather */
-UPDATE locales_item SET name_loc4='卢埃加的命令',description_loc4='这份文件上的字体非常尖锐锋利，字里行间充满了愤怒。' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET name_loc4='卢埃加的命令',description_loc4='这份文件上的字体非常尖锐锋利，字里行间充满了愤怒。' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
+UPDATE locales_item SET name_loc4='卢埃加的命令',description_loc4='这份文件上的字体非常尖锐锋利，字里行间充满了愤怒。' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
+UPDATE locales_item SET name_loc4='卢埃加的命令',description_loc4='这份文件上的字体非常尖锐锋利，字里行间充满了愤怒。' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
 UPDATE locales_item SET name_loc4='魔皮' WHERE entry=25707; /* name: Fel Hide */
 UPDATE locales_item SET name_loc4='厚裂蹄牛皮' WHERE entry=25708; /* name: Thick Clefthoof Leather */
 UPDATE locales_item SET name_loc4='枭兽头饰' WHERE entry=25710; /* name: Moonkin Headdress */
