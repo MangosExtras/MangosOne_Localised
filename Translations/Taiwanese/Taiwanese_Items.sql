@@ -17025,8 +17025,8 @@ UPDATE locales_item SET name_loc5='魔化鱗片' WHERE entry=25700; /* name: Fel
 UPDATE locales_item SET name_loc5='懲罰胸甲' WHERE entry=25701; /* name: Breastplate of Retribution */
 UPDATE locales_item SET name_loc5='毀滅綴鱗護腿' WHERE entry=25702; /* name: Scaled Legs of Ruination */
 UPDATE locales_item SET name_loc5='角斑馬皮' WHERE entry=25703; /* name: Zhevra Leather */
-UPDATE locales_item SET name_loc5='盧安卡的命令',description_loc5='一份印著一系列銳利，有稜有角圖樣的文件。這個筆跡看來似乎因為憤怒而飛舞。' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET name_loc5='盧安卡的命令',description_loc5='一份印著一系列銳利，有稜有角圖樣的文件。這個筆跡看來似乎因為憤怒而飛舞。' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
+UPDATE locales_item SET name_loc5='盧安卡的命令',description_loc5='一份印著一系列銳利，有稜有角圖樣的文件。這個筆跡看來似乎因為憤怒而飛舞。' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
+UPDATE locales_item SET name_loc5='盧安卡的命令',description_loc5='一份印著一系列銳利，有稜有角圖樣的文件。這個筆跡看來似乎因為憤怒而飛舞。' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
 UPDATE locales_item SET name_loc5='魔化皮革' WHERE entry=25707; /* name: Fel Hide */
 UPDATE locales_item SET name_loc5='厚裂蹄皮' WHERE entry=25708; /* name: Thick Clefthoof Leather */
 UPDATE locales_item SET name_loc5='月梟頭飾' WHERE entry=25710; /* name: Moonkin Headdress */
