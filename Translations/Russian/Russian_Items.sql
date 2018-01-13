@@ -17130,8 +17130,8 @@ UPDATE locales_item SET name_loc8='Скверночешуя' WHERE entry=25700; 
 UPDATE locales_item SET name_loc8='Кираса воздаяния' WHERE entry=25701; /* name: Breastplate of Retribution */
 UPDATE locales_item SET name_loc8='Чешуйчатые поножи разорения' WHERE entry=25702; /* name: Scaled Legs of Ruination */
 UPDATE locales_item SET name_loc8='Кожа жевры' WHERE entry=25703; /* name: Zhevra Leather */
-UPDATE locales_item SET name_loc8='Заказы Луанги',description_loc8='Документ отпечатан с рядом острых, угловых букв. Сам автор, кажется, в гневе.' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
-UPDATE locales_item SET name_loc8='Заказы Луанги',description_loc8='Документ отпечатан с рядом острых, угловых букв. Сам автор, кажется, в гневе.' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to see0 */
+UPDATE locales_item SET name_loc8='Заказы Луанги',description_loc8='Документ отпечатан с рядом острых, угловых букв. Сам автор, кажется, в гневе.' WHERE entry=25705; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
+UPDATE locales_item SET name_loc8='Заказы Луанги',description_loc8='Документ отпечатан с рядом острых, угловых букв. Сам автор, кажется, в гневе.' WHERE entry=25706; /* name: Luanga\'s Orders */ /* description: A document imprinted with a series of sharp, angular characters. The very script itself seems to seethe with anger. */
 UPDATE locales_item SET name_loc8='Скверношкура' WHERE entry=25707; /* name: Fel Hide */
 UPDATE locales_item SET name_loc8='Плотная кожа копытня' WHERE entry=25708; /* name: Thick Clefthoof Leather */
 UPDATE locales_item SET name_loc8='Головной убор лунного совуха' WHERE entry=25710; /* name: Moonkin Headdress */
