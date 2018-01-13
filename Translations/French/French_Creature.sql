@@ -14344,6 +14344,7 @@ UPDATE locales_creature SET name_loc2='Gorr\'Niaud' WHERE entry=20732; /* name: 
 UPDATE locales_creature SET name_loc2='Distributeur de dégâts de Walla',subname_loc2='Seigneur du Matos' WHERE entry=20733; /* name: Walla\'s Damage Dealer */ /* subname: Lord of Stuff */
 UPDATE locales_creature SET name_loc2='Raptor Crocs-lames' WHERE entry=20734; /* name: Daggermaw Raptor */
 UPDATE locales_creature SET name_loc2='Tranchantes - Légion - Lapin invisible' WHERE entry=20736; /* name: Blade\'s Edge - Legion - Invis Bunny */
+UPDATE locales_creature SET name_loc2='Aeonus (1)' WHERE entry=20737; /* name: Aeonus (1) */
 UPDATE locales_creature SET name_loc2='Larve d\'aile-de-soie' WHERE entry=20747; /* name: Silkwing Larva */
 UPDATE locales_creature SET name_loc2='Loup redoutable sire-tonnerre' WHERE entry=20748; /* name: Thunderlord Dire Wolf */
 UPDATE locales_creature SET name_loc2='Serpent ailécaille' WHERE entry=20749; /* name: Scalewing Serpent */
@@ -15908,6 +15909,8 @@ UPDATE locales_creature SET name_loc2='Karazhan - Echecs, Medivh TRICHE : visue
 UPDATE locales_creature SET name_loc2='Super Thrall' WHERE entry=22522; /* name: Unkillable Test Dummy 73 Warrior RAID SPECIAL */
 UPDATE locales_creature SET name_loc2='Karazhan - Echecs, mannequin outil de victoire' WHERE entry=22523; /* name: Karazhan - Chess, Victory Dummy Tool */
 UPDATE locales_creature SET name_loc2='Karazhan - Echecs, contrôle de la victoire' WHERE entry=22524; /* name: Karazhan - Chess, Victory Controller */
+UPDATE locales_creature SET name_loc2='Griffon de Nid-de-l\'Aigle (1)' WHERE entry=22525; /* name: Aerie Gryphon (1) */
+UPDATE locales_creature SET name_loc2='Aggi Grondécrase (1)' WHERE entry=22670; /* name: Aggi Rumblestomp (1) */
 UPDATE locales_creature SET name_loc2='Cracheur de feu de l\'Exodar' WHERE entry=22802; /* name: Exodar Firebreather */
 UPDATE locales_creature SET name_loc2='Avaleur de feu de Lune-d\'argent' WHERE entry=22804; /* name: Silvermoon Fireeater */
 UPDATE locales_creature SET name_loc2='Cracheur de feu de Shattrath' WHERE entry=22806; /* name: Shattrath Firebreather */
