@@ -7210,6 +7210,7 @@ UPDATE locales_item SET name_loc7='Manteo nacido del Sol' WHERE entry=12113; /* 
 UPDATE locales_item SET name_loc7='Guantes Ocaso' WHERE entry=12114; /* name: Nightfall Gloves */
 UPDATE locales_item SET name_loc7='Agarre de adepto' WHERE entry=12115; /* name: Stalwart Clutch */
 UPDATE locales_item SET name_loc7='Basura de Kum\'isha',description_loc7='Un cofre lleno de "porquería"' WHERE entry=12122; /* name: Kum\'isha\'s Junk */ /* description: A chest full of "junk" */
+UPDATE locales_item SET name_loc7='Eggscilloscope' WHERE entry=12144; /* name: Eggscilloscope */
 UPDATE locales_item SET name_loc7='Diseño: espada corta de hierro endurecido',description_loc7='Te enseña a hacer una espada corta de hierro endurecido.' WHERE entry=12162; /* name: Plans: Hardened Iron Shortsword */ /* description: Teaches you how to make a Hardened Iron Shortsword. */
 UPDATE locales_item SET name_loc7='Diseño: espada ancha de acero lunar',description_loc7='Te enseña a hacer una espada ancha de acero lunar.' WHERE entry=12163; /* name: Plans: Moonsteel Broadsword */ /* description: Teaches you how to make a Moonsteel Broadsword. */
 UPDATE locales_item SET name_loc7='Diseño: hacha de hierro macizo',description_loc7='Te enseña a hacer un hacha de hierro macizo.' WHERE entry=12164; /* name: Plans: Massive Iron Axe */ /* description: Teaches you how to make a Massive Iron Axe. */
@@ -15425,7 +15426,7 @@ UPDATE locales_item SET name_loc7='Togas de Lunargenta' WHERE entry=23924; /* na
 UPDATE locales_item SET name_loc7='Llave de jaula de devastador' WHERE entry=23925; /* name: Ravager Cage Key */
 UPDATE locales_item SET name_loc7='Escrito sobre divinidad' WHERE entry=23926; /* name: Tome of Divinity */
 UPDATE locales_item SET name_loc7='Pera de arena',description_loc7='Fruta brillante y jugosa, muy apreciada por los elekks.' WHERE entry=23927; /* name: Sand Pear */ /* description: A bright, juicy fruit favored by the elekk. */
-UPDATE locales_item SET name_loc7='Las órdenes del exarca',description_loc7='Selladas.' WHERE entry=23928; /* name: The Exarch\'s Orders */ /* description: Sealed. */
+UPDATE locales_item SET name_loc7='Las órdenes del exarca',description_loc7='selado.' WHERE entry=23928; /* name: The Exarch\'s Orders */ /* description: Sealed. */
 UPDATE locales_item SET name_loc7='Carta de Lor\'themar Theron' WHERE entry=23929; /* name: Letter from Lor\'themar Theron */
 UPDATE locales_item SET name_loc7='Carta sellada por Sylvanas' WHERE entry=23930; /* name: Letter Sealed by Sylvanas */
 UPDATE locales_item SET name_loc7='Togas de Avanzada Azur' WHERE entry=23931; /* name: Azure Watch Robes */
@@ -16820,7 +16821,7 @@ UPDATE locales_item SET name_loc7='Mandíbula del "conde" Ungula',description_lo
 UPDATE locales_item SET name_loc7='Cajón de suministros de Foso Sangrante' WHERE entry=25460; /* name: Bleeding Hollow Supply Crate */
 UPDATE locales_item SET name_loc7='Libro de los Nombres Olvidados' WHERE entry=25461; /* name: Book of Forgotten Names */
 UPDATE locales_item SET name_loc7='Escrito del Ocaso' WHERE entry=25462; /* name: Tome of Dusk */
-UPDATE locales_item SET name_loc7='Par de colmillos de marfil',description_loc7='¡Prístinos!' WHERE entry=25463; /* name: Pair of Ivory Tusks */ /* description: Pristine! */
+UPDATE locales_item SET name_loc7='Par de colmillos de marfil',description_loc7='pristine!' WHERE entry=25463; /* name: Pair of Ivory Tusks */ /* description: Pristine! */
 UPDATE locales_item SET name_loc7='Corcesca templada en sangre' WHERE entry=25464; /* name: Blood-Tempered Ranseur */
 UPDATE locales_item SET name_loc7='Amuleto de cuervo tormentoso' WHERE entry=25465; /* name: Stormcrow Amulet */
 UPDATE locales_item SET name_loc7='Antena rota' WHERE entry=25466; /* name: Broken Antenna */
@@ -19851,7 +19852,7 @@ UPDATE locales_item SET name_loc7='Sobrehombros de placas de Gladiador' WHERE en
 UPDATE locales_item SET name_loc7='Leotardos de malla de centinela' WHERE entry=30497; /* name: Sentinel\'s Mail Leggings */
 UPDATE locales_item SET name_loc7='Musleras de láminas de escolta' WHERE entry=30498; /* name: Outrider\'s Lamellar Legguards */
 UPDATE locales_item SET name_loc7='Vino de Cantoalegre' WHERE entry=30499; /* name: Brightsong Wine */
-UPDATE locales_item SET name_loc7='Huevo de arakkoa podrido',description_loc7='Asqueroso...' WHERE entry=30500; /* name: Rotten Arakkoa Egg */ /* description: Disgusting... */
+UPDATE locales_item SET name_loc7='Huevo de arakkoa podrido',description_loc7='Disgusting ...' WHERE entry=30500; /* name: Rotten Arakkoa Egg */ /* description: Disgusting... */
 UPDATE locales_item SET name_loc7='Fardo de cardos de sangre' WHERE entry=30501; /* name: Bundle of Bloodthistle */
 UPDATE locales_item SET name_loc7='Cabeza reducida de arqueólogo' WHERE entry=30503; /* name: Archeologist\'s Shrunken Head */
 UPDATE locales_item SET name_loc7='Daga de fronda cortante' WHERE entry=30504; /* name: Leafblade Dagger */
@@ -21474,7 +21475,7 @@ UPDATE locales_item SET name_loc7='Calavera de dragón de Grulloc',description_l
 UPDATE locales_item SET name_loc7='La arqueta de Maggoc',description_loc7='Rayos, está vacía.' WHERE entry=32380; /* name: Maggoc\'s Treasure Chest */ /* description: Darn, it\'s empty. */
 UPDATE locales_item SET name_loc7='Esquema: cableado de fusibles',description_loc7='Te enseña a hacer un cableado de fusibles.' WHERE entry=32381; /* name: Schematic: Fused Wiring */ /* description: Teaches you how to make Fused Wiring. */
 UPDATE locales_item SET name_loc7='Confalón de Slaag',description_loc7='Roto y sucio, huele tan mal como Slaag.' WHERE entry=32382; /* name: Slaag\'s Standard */ /* description: Torn and dirty, it smells as bad as Slaag. */
-UPDATE locales_item SET name_loc7='Alma de Skulloc',description_loc7='¡MALVADA!' WHERE entry=32383; /* name: Skulloc\'s Soul */ /* description: EVIL! */
+UPDATE locales_item SET name_loc7='Alma de Skulloc',description_loc7='BAD!' WHERE entry=32383; /* name: Skulloc\'s Soul */ /* description: EVIL! */
 UPDATE locales_item SET name_loc7='Cabeza de Magtheridon',description_loc7='Lo único que queda del engendro infernal Magtheridon.' WHERE entry=32385; /* name: Magtheridon\'s Head */ /* description: All that remains of the hellspawn, Magtheridon. */
 UPDATE locales_item SET name_loc7='Cabeza de Magtheridon',description_loc7='Lo único que queda del engendro infernal Magtheridon.' WHERE entry=32386; /* name: Magtheridon\'s Head */ /* description: All that remains of the hellspawn, Magtheridon. */
 UPDATE locales_item SET name_loc7='Ídolo de la Diosa Cuervo' WHERE entry=32387; /* name: Idol of the Raven Goddess */
@@ -22079,7 +22080,7 @@ UPDATE locales_item SET name_loc7='Leotardos del largo camino' WHERE entry=33230
 UPDATE locales_item SET name_loc7='Caperuza de Quebrantarrocas descomunal' WHERE entry=33231; /* name: Oversized Stonemaul Hood */
 UPDATE locales_item SET name_loc7='Capucha de oficial' WHERE entry=33232; /* name: Journeyman\'s Cowl */
 UPDATE locales_item SET name_loc7='Guantes tejidos con cobalto' WHERE entry=33233; /* name: Cobalt-threaded Gloves */
-UPDATE locales_item SET name_loc7='Granizado de frutos del bosque',description_loc7='¡Qué refrescante!' WHERE entry=33234; /* name: Iced Berry Slush */ /* description: Chilling! */
+UPDATE locales_item SET name_loc7='Granizado de frutos del bosque',description_loc7='Chilling!' WHERE entry=33234; /* name: Iced Berry Slush */ /* description: Chilling! */
 UPDATE locales_item SET name_loc7='Cubrehombros de oficial' WHERE entry=33235; /* name: Journeyman\'s Epaulets */
 UPDATE locales_item SET name_loc7='Refresco de la feria "clásico"',description_loc7='Porque, admitámoslo, el \'nuevo refresco de la feria\' estaba malísimo' WHERE entry=33236; /* name: Fizzy Faire Drink "Classic" */ /* description: Because, Let\'s Face it, \'New Fizzy Faire Drink\' Was Awful */
 UPDATE locales_item SET name_loc7='Arnés de batalla de Brogg' WHERE entry=33237; /* name: Brogg\'s Battle Harness */
@@ -22138,7 +22139,7 @@ UPDATE locales_item SET name_loc7='Hombreras de hojas danzantes' WHERE entry=333
 UPDATE locales_item SET name_loc7='Botas de guerra aplastacráneos' WHERE entry=33303; /* name: Skullshatter Warboots */
 UPDATE locales_item SET name_loc7='Capa de poder subyugado' WHERE entry=33304; /* name: Cloak of Subjugated Power */
 UPDATE locales_item SET name_loc7='Boceto: Corazón de Don Julio',description_loc7='Te enseña a tallar un Corazón de Don Julio.' WHERE entry=33305; /* name: Design: Don Julio\'s Heart */ /* description: Teaches you how to cut Don Julio\'s Heart. */
-UPDATE locales_item SET name_loc7='Riendas para carreras de carneros',description_loc7='¡Arre!' WHERE entry=33306; /* name: Ram Racing Reins */ /* description: Giddyup! */
+UPDATE locales_item SET name_loc7='Riendas para carreras de carneros',description_loc7='GIDDYUP!' WHERE entry=33306; /* name: Ram Racing Reins */ /* description: Giddyup! */
 UPDATE locales_item SET name_loc7='Fórmula: encantar arma: verdugo' WHERE entry=33307; /* name: Formula: Enchant Weapon - Executioner */ /* description: Learn how to permanently enchant a Melee Weapon to occasionally ignore 840 of your enemy\'s armor.  Requires a level 60 or higher item. */
 UPDATE locales_item SET name_loc7='Reducto de Gladiador despiadado' WHERE entry=33309; /* name: Merciless Gladiator\'s Redoubt */
 UPDATE locales_item SET name_loc7='Barrera de Gladiador despiadado' WHERE entry=33313; /* name: Merciless Gladiator\'s Barrier */
