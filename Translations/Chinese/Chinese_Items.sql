@@ -1006,7 +1006,7 @@ UPDATE locales_item SET name_loc4='鸢盾' WHERE entry=2446; /* name: Kite Shiel
 UPDATE locales_item SET name_loc4='宁神花' WHERE entry=2447; /* name: Peacebloom */
 UPDATE locales_item SET name_loc4='重型全身盾' WHERE entry=2448; /* name: Heavy Pavise */
 UPDATE locales_item SET name_loc4='地根草' WHERE entry=2449; /* name: Earthroot */
-UPDATE locales_item SET name_loc4='石南草' WHERE entry=2450; /* name: Briarthorn */
+UPDATE locales_item SET name_loc4='布瑞尔索恩' WHERE entry=2450; /* name: Briarthorn */
 UPDATE locales_item SET name_loc4='纹章三角盾' WHERE entry=2451; /* name: Crested Heater Shield */
 UPDATE locales_item SET name_loc4='雨燕草' WHERE entry=2452; /* name: Swiftthistle */
 UPDATE locales_item SET name_loc4='跌打草' WHERE entry=2453; /* name: Bruiseweed */
@@ -2684,7 +2684,7 @@ UPDATE locales_item SET name_loc4='铁质宝箱' WHERE entry=4634; /* name: Iron
 UPDATE locales_item SET name_loc4='铁趾的护符' WHERE entry=4635; /* name: Hammertoe\'s Amulet */
 UPDATE locales_item SET name_loc4='精铁宝箱' WHERE entry=4636; /* name: Strong Iron Lockbox */
 UPDATE locales_item SET name_loc4='钢质宝箱' WHERE entry=4637; /* name: Steel Lockbox */
-UPDATE locales_item SET name_loc4=' reinforced steel box ' WHERE entry=4638; /* name: Reinforced Steel Lockbox */
+UPDATE locales_item SET name_loc4='强化钢质宝箱' WHERE entry=4638; /* name: Reinforced Steel Lockbox */
 UPDATE locales_item SET name_loc4='魔力海藻' WHERE entry=4639; /* name: Enchanted Sea Kelp */
 UPDATE locales_item SET name_loc4='大地印章' WHERE entry=4640; /* name: Sign of the Earth */
 UPDATE locales_item SET name_loc4='达古恩之手' WHERE entry=4641; /* name: Hand of Dagun */
@@ -8052,11 +8052,11 @@ UPDATE locales_item SET name_loc4='净化药水' WHERE entry=13462; /* name: Pur
 UPDATE locales_item SET name_loc4='梦叶草' WHERE entry=13463; /* name: Dreamfoil */
 UPDATE locales_item SET name_loc4='黄金参' WHERE entry=13464; /* name: Golden Sansam */
 UPDATE locales_item SET name_loc4='山鼠草' WHERE entry=13465; /* name: Mountain Silversage */
-UPDATE locales_item SET name_loc4=' plague flowers ' WHERE entry=13466; /* name: Plaguebloom */
+UPDATE locales_item SET name_loc4='瘟疫花' WHERE entry=13466; /* name: Plaguebloom */
 UPDATE locales_item SET name_loc4='冰盖草' WHERE entry=13467; /* name: Icecap */
 UPDATE locales_item SET name_loc4='黑莲花' WHERE entry=13468; /* name: Black Lotus */
-UPDATE locales_item SET name_loc4='维尔顿·巴罗夫的徽记' WHERE entry=13469; /* name: Head of Weldon Barov */
-UPDATE locales_item SET name_loc4='阿莱克斯·巴罗夫的徽记' WHERE entry=13470; /* name: Head of Alexi Barov */
+UPDATE locales_item SET name_loc4='维尔顿·巴罗夫的头颅' WHERE entry=13469; /* name: Head of Weldon Barov */
+UPDATE locales_item SET name_loc4='阿莱克斯·巴罗夫的头颅' WHERE entry=13470; /* name: Head of Alexi Barov */
 UPDATE locales_item SET name_loc4='布瑞尔地契',description_loc4='盖有巴罗夫家族的印章。' WHERE entry=13471; /* name: The Deed to Brill */ /* description: Carries the Seal of Barov. */
 UPDATE locales_item SET name_loc4='费尔斯通好运符' WHERE entry=13473; /* name: Felstone Good Luck Charm */
 UPDATE locales_item SET name_loc4='农夫达尔松的猎枪' WHERE entry=13474; /* name: Farmer Dalson\'s Shotgun */
@@ -21013,6 +21013,7 @@ UPDATE locales_item SET name_loc4='符文银杖' WHERE entry=31700; /* name: Run
 UPDATE locales_item SET name_loc4='破坏者之斧' WHERE entry=31701; /* name: Saboteur\'s Axe */
 UPDATE locales_item SET name_loc4='部落的挑战' WHERE entry=31702; /* name: Challenge from the Horde */
 UPDATE locales_item SET name_loc4='虚空猎手之刃' WHERE entry=31703; /* name: Nether-Stalker\'s Blade */
+UPDATE locales_item SET name_loc4='风暴钥匙' WHERE entry=31704; /* name: The Tempest Key */ /* description: A crystalline key that is seemingly held together by beams of light. */
 UPDATE locales_item SET name_loc4='被遗弃的篷车宝箱钥匙' WHERE entry=31705; /* name: Derelict Caravan Chest Key */
 UPDATE locales_item SET name_loc4='卡加斯之手的徽记' WHERE entry=31706; /* name: The Head of the Hand of Kargath */ /* description: Cut cleanly off at the shoulders. */
 UPDATE locales_item SET name_loc4='秘教的命令' WHERE entry=31707; /* name: Cabal Orders */
