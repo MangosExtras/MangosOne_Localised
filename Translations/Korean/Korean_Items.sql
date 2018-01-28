@@ -3376,6 +3376,7 @@ UPDATE locales_item SET name_loc1='진주장식 망토' WHERE entry=5542; /* nam
 UPDATE locales_item SET name_loc1='도면: 오색 망치',description_loc1='오색 망치 만드는 법을 배웁니다.' WHERE entry=5543; /* name: Plans: Iridescent Hammer */ /* description: Teaches you how to make an Iridescent Hammer. */
 UPDATE locales_item SET name_loc1='블러드클로의 수집품' WHERE entry=5544; /* name: Dal Bloodclaw\'s Skull */
 UPDATE locales_item SET name_loc1='복원된 마법봉' WHERE entry=5547; /* name: Reconstructed Rod */
+UPDATE locales_item SET name_loc1='아메스아란의 멸망' WHERE entry=5563; /* name: The Fall of Ameth\'Aran */
 UPDATE locales_item SET name_loc1='지옥의 돌' WHERE entry=5565; /* name: Infernal Stone */
 UPDATE locales_item SET name_loc1='부러진 가지뿔' WHERE entry=5566; /* name: Broken Antler */
 UPDATE locales_item SET name_loc1='은색 낚싯바늘' WHERE entry=5567; /* name: Silver Hook */
@@ -10699,6 +10700,7 @@ UPDATE locales_item SET name_loc1='라빈의 편지' WHERE entry=17355; /* name:
 UPDATE locales_item SET name_loc1='라이슨의 봉화' WHERE entry=17362; /* name: Ryson\'s Beacon */
 UPDATE locales_item SET name_loc1='라이슨의 봉화' WHERE entry=17363; /* name: Ryson\'s Beacon */
 UPDATE locales_item SET name_loc1='관측용 망원경' WHERE entry=17364; /* name: Scrying Scope */
+UPDATE locales_item SET name_loc1='진피즐렉스의 휴대용 벌목기 장치' WHERE entry=17384; /* name: Zinfizzlex\'s Portable Shredder Unit */
 UPDATE locales_item SET name_loc1='겨울 할아버지 꽁꽁주' WHERE entry=17402; /* name: Greatfather\'s Winter Ale */
 UPDATE locales_item SET name_loc1='스팀휘들 탄산주' WHERE entry=17403; /* name: Steamwheedle Fizzy Spirits */
 UPDATE locales_item SET name_loc1='갈아만든 두유' WHERE entry=17404; /* name: Blended Bean Brew */
@@ -10706,6 +10708,7 @@ UPDATE locales_item SET name_loc1='정원 녹차' WHERE entry=17405; /* name: Gr
 UPDATE locales_item SET name_loc1='축제일 치즈케이크' WHERE entry=17406; /* name: Holiday Cheesewheel */
 UPDATE locales_item SET name_loc1='그라추의 엄마손 고기 파이' WHERE entry=17407; /* name: Graccu\'s Homemade Meat Pie */
 UPDATE locales_item SET name_loc1='매콤한 산적' WHERE entry=17408; /* name: Spicy Beefstick */
+UPDATE locales_item SET name_loc1='진피즐렉스의 휴대용 벌목기 장치' WHERE entry=17410; /* name: Zinfizzlex\'s Portable Shredder Unit */
 UPDATE locales_item SET name_loc1='증기톱' WHERE entry=17411; /* name: Steamsaw */
 UPDATE locales_item SET name_loc1='법전: 인내의 기원',description_loc1='풍파에 손상된 듯합니다. 내용을 읽을 수 없습니다.' WHERE entry=17413; /* name: Codex: Prayer of Fortitude */ /* description: Teaches Prayer of Fortitude (Rank 1). */
 UPDATE locales_item SET name_loc1='법전: 인내의 기원',description_loc1='풍파에 손상된 듯합니다. 내용을 읽을 수 없습니다.' WHERE entry=17414; /* name: Codex: Prayer of Fortitude II */ /* description: Teaches Prayer of Fortitude (Rank 2). */
@@ -20932,6 +20935,7 @@ UPDATE locales_item SET name_loc1='룬새김 은지팡이' WHERE entry=31700; /*
 UPDATE locales_item SET name_loc1='폭파병의 도끼' WHERE entry=31701; /* name: Saboteur\'s Axe */
 UPDATE locales_item SET name_loc1='호드의 도전 깃발' WHERE entry=31702; /* name: Challenge from the Horde */
 UPDATE locales_item SET name_loc1='연합추적자의 단검' WHERE entry=31703; /* name: Nether-Stalker\'s Blade */
+UPDATE locales_item SET name_loc1='폭풍우 열쇠' WHERE entry=31704; /* name: The Tempest Key */ /* description: A crystalline key that is seemingly held together by beams of light. */
 UPDATE locales_item SET name_loc1='버려진 짐마차 궤짝 열쇠' WHERE entry=31705; /* name: Derelict Caravan Chest Key */
 UPDATE locales_item SET name_loc1='카르가스의 오른팔을 처치한 증거' WHERE entry=31706; /* name: The Head of the Hand of Kargath */ /* description: Cut cleanly off at the shoulders. */
 UPDATE locales_item SET name_loc1='비밀결사단 명령서' WHERE entry=31707; /* name: Cabal Orders */
