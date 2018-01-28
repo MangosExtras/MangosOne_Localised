@@ -5780,6 +5780,8 @@ UPDATE locales_creature SET name_loc8='Небесная тень' WHERE entry=73
 UPDATE locales_creature SET name_loc8='Роковой разрушитель' WHERE entry=7377; /* name: Doomhound Ravager */
 UPDATE locales_creature SET name_loc8='Гончий мастиф Рока' WHERE entry=7378; /* name: Doomhound Mastiff */
 UPDATE locales_creature SET name_loc8='Огр-маг с перевала Мертвого Ветра' WHERE entry=7379; /* name: Deadwind Ogre Mage */
+UPDATE locales_creature SET name_loc8='Siamese' WHERE entry=7380; /* name: Siamese */
+UPDATE locales_creature SET name_loc8='Bombay' WHERE entry=7385; /* name: Bombay */
 UPDATE locales_creature SET name_loc8='Белый котенок' WHERE entry=7386; /* name: White Kitten */
 UPDATE locales_creature SET name_loc8='Зеленокрылый ара' WHERE entry=7387; /* name: Green Wing Macaw */
 UPDATE locales_creature SET name_loc8='Какаду' WHERE entry=7388; /* name: Cockatoo */
@@ -10112,6 +10114,7 @@ UPDATE locales_creature SET name_loc8='Бодли' WHERE entry=16033; /* name: B
 UPDATE locales_creature SET name_loc8='Чумная тварь' WHERE entry=16034; /* name: Plague Beast */
 UPDATE locales_creature SET name_loc8='Бесноватый нетопырь' WHERE entry=16036; /* name: Frenzied Bat */
 UPDATE locales_creature SET name_loc8='Зараженный нетопырь' WHERE entry=16037; /* name: Plagued Bat */
+UPDATE locales_creature SET name_loc8='Deathhound' WHERE entry=16038; /* name: Deathhound */
 UPDATE locales_creature SET name_loc8='Дрессировщик стаи [PH]' WHERE entry=16039; /* name: Pack Trainer [PH] */
 UPDATE locales_creature SET name_loc8='Пастух [PH]' WHERE entry=16040; /* name: Pack Handler [PH] */
 UPDATE locales_creature SET name_loc8='Тенепес' WHERE entry=16041; /* name: Shadowhound */
@@ -17450,6 +17453,7 @@ UPDATE locales_creature SET name_loc8='Инвис ящер кредит' WHERE e
 UPDATE locales_creature SET name_loc8='Пойманный ящер' WHERE entry=23741; /* name: Captured Raptor */
 UPDATE locales_creature SET name_loc8='Гарг' WHERE entry=23745; /* name: Garg */
 UPDATE locales_creature SET name_loc8='Зул\'Аман внешний Инвисман' WHERE entry=23746; /* name: Zul\'Aman Exterior InvisMan */
+UPDATE locales_creature SET name_loc8='Packhorse' WHERE entry=23747; /* name: Packhorse */
 UPDATE locales_creature SET name_loc8='Курцель',subname_loc8='Еда и напитки' WHERE entry=23748; /* name: Kurzel */ /* subname: Food & Drink */
 UPDATE locales_creature SET name_loc8='Северный шатер' WHERE entry=23751; /* name: North Tent */
 UPDATE locales_creature SET name_loc8='Северо-восточный шатер' WHERE entry=23752; /* name: Northeast Tent */

@@ -4,9 +4,14 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу расспр
 UPDATE locales_gossip_menu_option SET option_text_loc8='Позвольте взглянуть на ваши товары.' WHERE menu_id=0 AND id=1; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мне нужен транспорт.' WHERE menu_id=0 AND id=2; /* option_text: I need a ride. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу учиться.' WHERE menu_id=0 AND id=3; /* option_text: Train me. */
+UPDATE locales_gossip_menu_option SET option_text_loc8='GOSSIP_OPTION_SPIRITHEALER' WHERE menu_id=0 AND id=4; /* option_text: GOSSIP_OPTION_SPIRITHEALER */
+UPDATE locales_gossip_menu_option SET option_text_loc8='GOSSIP_OPTION_SPIRITGUIDE' WHERE menu_id=0 AND id=5; /* option_text: GOSSIP_OPTION_SPIRITGUIDE */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Конфета или Жизнь!' WHERE menu_id=0 AND id=6; /* option_text: Make this inn your home. */
+UPDATE locales_gossip_menu_option SET option_text_loc8='GOSSIP_OPTION_BANKER' WHERE menu_id=0 AND id=7; /* option_text: GOSSIP_OPTION_BANKER */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Как мне создать гильдию?' WHERE menu_id=0 AND id=8; /* option_text: How do I form a guild? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу нарисовать герб гильдии.' WHERE menu_id=0 AND id=9; /* option_text: I want to create a guild crest. */
+UPDATE locales_gossip_menu_option SET option_text_loc8='GOSSIP_OPTION_BATTLEFIELD' WHERE menu_id=0 AND id=10; /* option_text: GOSSIP_OPTION_BATTLEFIELD */
+UPDATE locales_gossip_menu_option SET option_text_loc8='GOSSIP_OPTION_AUCTIONEER' WHERE menu_id=0 AND id=11; /* option_text: GOSSIP_OPTION_AUCTIONEER */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу поставить питомца в это стойло.' WHERE menu_id=0 AND id=12; /* option_text: I\'d like to stable my pet here. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Позвольте взглянуть на ваши товары.' WHERE menu_id=0 AND id=13; /* option_text: GOSSIP_OPTION_ARMORER */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу забыть свои умения.' WHERE menu_id=0 AND id=14; /* option_text: I wish to unlearn my talents. */
@@ -167,6 +172,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Подчиненные?'
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мне бы хотелось купить что-нибудь у вас.' WHERE menu_id=900 AND id=0; /* option_text: I would like to buy from you. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Да, я хочу еще приобрести Эликсир Гогельмогель!' WHERE menu_id=922 AND id=0; /* option_text: Yes! I want more of that fabulous Noggenfogger Elixir! */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Тебе ничего странного в пустыне не встречалось?' WHERE menu_id=922 AND id=1; /* option_text: Seen any strange things in the desert lately? */
+UPDATE locales_gossip_menu_option SET option_text_loc8='GOSSIP_OPTION_VENDOR' WHERE menu_id=922 AND id=3; /* option_text: GOSSIP_OPTION_VENDOR */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Теперь ты взорвешь эту дверь?' WHERE menu_id=940 AND id=0; /* option_text: Will you blow up that door now? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Эй, Блай! Виззл хочет свой изыскательский жезл назад!' WHERE menu_id=941 AND id=0; /* option_text: Hey Bly!  Bilgewizzle wants his divino-matic rod back! */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Все, хватит! Мне надоело тебе помогать. Пришло время решить наши разногласия в бою!' WHERE menu_id=941 AND id=1; /* option_text: That\'s it!  I\'m tired of helping you out.  It\'s time we settled things on the battlefield! */
@@ -871,6 +877,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Мой ответ - Ал
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мой ответ - Малигос.' WHERE menu_id=4763 AND id=4; /* option_text: My answer - Malygos. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Гул\'дан' WHERE menu_id=4764 AND id=0; /* option_text: Gul\'dan */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Кел\'Тузад' WHERE menu_id=4764 AND id=1; /* option_text: Kel\'Thuzad */
+UPDATE locales_gossip_menu_option SET option_text_loc8='Ner\'zhul' WHERE menu_id=4764 AND id=2; /* option_text: Ner\'zhul */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Что я могу купить, Локтос?' WHERE menu_id=4781 AND id=0; /* option_text: Show me what I have access to, Lokhtos. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу, чтобы мой питомец забыл кое-какие навыки.' WHERE menu_id=4783 AND id=0; /* option_text: How do I train my pet? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу, чтобы мой питомец забыл кое-какие навыки.' WHERE menu_id=4783 AND id=1; /* option_text: I wish to untrain my pet. */
