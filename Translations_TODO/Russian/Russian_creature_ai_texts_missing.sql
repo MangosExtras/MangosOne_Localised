@@ -2,12 +2,13 @@
 SET NAMES 'utf8';
 UPDATE trans_words SET content_loc8='Cipher of Damnation belongs to us now!' WHERE word_id = 6528;
 UPDATE trans_words SET content_loc8='Get it while it\'s hot!' WHERE word_id = 5895;
+UPDATE trans_words SET content_loc8='Aaaahhhhhh!' WHERE word_id = 5806;
 UPDATE trans_words SET content_loc8='%s\'s death cry has stirred the nearby silithid hive.' WHERE word_id = 5667;
 UPDATE trans_words SET content_loc8='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE word_id = 5747;
 UPDATE trans_words SET content_loc8='Where\'s the water Emma? Get the water Emma? If\'n it weren\'t fer me that lot wouldn\'t know what water looks like.' WHERE word_id = 5746;
 UPDATE trans_words SET content_loc8='O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city.' WHERE word_id = 5744;
 UPDATE trans_words SET content_loc8='At last: one among you is worthy of my knowledge. Worry not: I have probed your thoughts, no harm will come to you.' WHERE word_id = 5906;
-UPDATE trans_words SET content_loc8='%s faces southeast and whimpers before looking back at you. ' WHERE word_id = 5788;
+UPDATE trans_words SET content_loc8='%s faces southeast and whimpers before looking back at you.' WHERE word_id = 5788;
 UPDATE trans_words SET content_loc8='I have... failed.' WHERE word_id = 5654;
 UPDATE trans_words SET content_loc8='You\'ve restored my health! I\'m in your debt, $N.' WHERE word_id = 6532;
 UPDATE trans_words SET content_loc8='You\'ve found a cure! We will crush our enemies!' WHERE word_id = 6533;
@@ -24,7 +25,7 @@ UPDATE trans_words SET content_loc8='%s shimmers and becomes intangible.' WHERE 
 UPDATE trans_words SET content_loc8='Hey, harbringer, how\'s that research coming along? There might be an Ultra-Kinetic Waffle Iron in it for you if you\'re prompt with the results!' WHERE word_id = 6158;
 UPDATE trans_words SET content_loc8='%s grabs the back of his neck and his eyes go wide.' WHERE word_id = 5609;
 UPDATE trans_words SET content_loc8='Off with you, $N.' WHERE word_id = 6126;
-UPDATE trans_words SET content_loc8='Move along, $c.' WHERE word_id = 6125;
+UPDATE trans_words SET content_loc8='Move along, $C.' WHERE word_id = 6125;
 UPDATE trans_words SET content_loc8='Looks like today was the wrong day to quit mana tapping...' WHERE word_id = 6110;
 UPDATE trans_words SET content_loc8='Oh, would you please stop checking your nails and spanking yourself, for one moment? Really, no one cares!' WHERE word_id = 6098;
 UPDATE trans_words SET content_loc8='Are you hungry? I\'m hungry. I just can\'t stand the thought of cured ham steak from Thultash again. If only we could get some of that succulent roasted quail!' WHERE word_id = 6097;
@@ -42,10 +43,10 @@ UPDATE trans_words SET content_loc8='T\'chali\'s Voodoo Brewery has the best bre
 UPDATE trans_words SET content_loc8='Whoah! Walk by again girl!' WHERE word_id = 6080;
 UPDATE trans_words SET content_loc8='Hey, hey sweet thing! Looking good!' WHERE word_id = 6078;
 UPDATE trans_words SET content_loc8='Hey, hey! Nice build you got there honey!' WHERE word_id = 6077;
-UPDATE trans_words SET content_loc8='Hey tough stuff! Hey, $c! Do you like money? I\'m loaded! How about you come over here and check out my gold coins?' WHERE word_id = 6075;
-UPDATE trans_words SET content_loc8='This will teach you to lay off the herb, $r.' WHERE word_id = 5600;
+UPDATE trans_words SET content_loc8='Hey tough stuff! Hey, $C! Do you like money? I\'m loaded! How about you come over here and check out my gold coins?' WHERE word_id = 6075;
+UPDATE trans_words SET content_loc8='This will teach you to lay off the herb, $R.' WHERE word_id = 5600;
 UPDATE trans_words SET content_loc8='The Scarlet Crusade shall not fail in it\'s mission!' WHERE word_id = 5591;
-UPDATE trans_words SET content_loc8='The Agamand Mills is held by the Scourge, $c. Join us!' WHERE word_id = 5587;
+UPDATE trans_words SET content_loc8='The Agamand Mills is held by the Scourge, $C. Join us!' WHERE word_id = 5587;
 UPDATE trans_words SET content_loc8='You are in the presence of a god!' WHERE word_id = 5575;
 UPDATE trans_words SET content_loc8='%s seems to no longer be able to cast spells...' WHERE word_id = 5570;
 UPDATE trans_words SET content_loc8='Come on! These jokes are epic!' WHERE word_id = 6058;

@@ -16,7 +16,6 @@ UPDATE trans_words SET content_loc8='Oooooo hot hot hot! If that won\'t put spri
 UPDATE trans_words SET content_loc8='Volcor was gone?' WHERE word_id = 6940;
 UPDATE trans_words SET content_loc8='You know where he is?' WHERE word_id = 6941;
 UPDATE trans_words SET content_loc8='Hey there, Belm! Give me a mug of Thunder Ale, and one for my good friend $N.' WHERE word_id = 6971;
-UPDATE trans_words SET content_loc8='You are Dismissed, $N' WHERE word_id = 7430;
 UPDATE trans_words SET content_loc8='Glowing Soulgem bursts open!' WHERE word_id = 6967;
 UPDATE trans_words SET content_loc8='Sarath fades into the mist...' WHERE word_id = 7427;
 UPDATE trans_words SET content_loc8='His lieutenant, Ilkurd Magthrull possesses a tome which might indicate the location of the remaining soulgems.' WHERE word_id = 7044;
@@ -31,10 +30,8 @@ UPDATE trans_words SET content_loc8='Glad to see you\'re doing so well, Harlan. 
 UPDATE trans_words SET content_loc8='Well, I am off than. Take care, Harlan!' WHERE word_id = 7021;
 UPDATE trans_words SET content_loc8='Good day. Elling! Hullo Elaine! Let me have a wheel of blue cheese, eh?' WHERE word_id = 7024;
 UPDATE trans_words SET content_loc8='Good day, Corbett. Here\'s your cheese, fresh made this morning! And how are things at your shop?' WHERE word_id = 7025;
-UPDATE trans_words SET content_loc8='I am free!  I will ask the spirit of fire to return to us so that my people may have the courage to fight their masters!  I thank you, $r' WHERE word_id = 7431;
+UPDATE trans_words SET content_loc8='I am free!  I will ask the spirit of fire to return to us so that my people may have the courage to fight their masters!  I thank you, $R' WHERE word_id = 7431;
 UPDATE trans_words SET content_loc8='Apothecary Zamah smiles.' WHERE word_id = 7053;
-UPDATE trans_words SET content_loc8='Ok, let\'s go. I know just the perfect spot!' WHERE word_id = 7617;
-UPDATE trans_words SET content_loc8='What... is happening... to me? Get this cat away from me!' WHERE word_id = 7618;
 UPDATE trans_words SET content_loc8='%s scurries away, attempting to flee from Twinkle.' WHERE word_id = 7620;
 UPDATE trans_words SET content_loc8='Did you find something fun to chase around, Twinkle? I bet you did!' WHERE word_id = 7621;
 UPDATE trans_words SET content_loc8='It\'s just you and me, Twinkle. Daddy\'s not going to be coming home.' WHERE word_id = 7622;
@@ -42,12 +39,10 @@ UPDATE trans_words SET content_loc8='I won\'t be held responsible for the catast
 UPDATE trans_words SET content_loc8='BY THE LIGHT OF ELUNE! Eredar! Cursed demons, what have you to me? I have not come alone, we will fight you as we have in the past! I...' WHERE word_id = 7636;
 UPDATE trans_words SET content_loc8='Turning to face Tuluun, the Draenei Artificer sneers contemptuously.' WHERE word_id = 7642;
 UPDATE trans_words SET content_loc8='%s sighs disgustedly as he turns back to his work.' WHERE word_id = 7644;
-UPDATE trans_words SET content_loc8=' [Furbolg] Bear witness to the savage acts of our adversaries, $n. They steal our young... our weak... Imprisoned here, they are left to the devices of the Bristlelimb. Set them free, Promised One!' WHERE word_id = 7627;
 UPDATE trans_words SET content_loc8='Bijou lost! SQUAWK! *cough' WHERE word_id = 7062;
 UPDATE trans_words SET content_loc8='Yes right away momma!' WHERE word_id = 7066;
 UPDATE trans_words SET content_loc8='Ah, this must be him now... no?' WHERE word_id = 7070;
 UPDATE trans_words SET content_loc8='Wouldn\'t you like to bring those days back? I have some friends who know just the way to do that.' WHERE word_id = 7469;
-UPDATE trans_words SET content_loc8='Every item that I have for sale I acquired myself. You have my personal guarantee of authenticity.' WHERE word_id = 7470;
 UPDATE trans_words SET content_loc8='The Lich King\'s forces are building. It is imperative that our timetable supports his plans.' WHERE word_id = 7076;
 UPDATE trans_words SET content_loc8='Our oldest clutch of dragons are still far from maturity, but with patience and study, we are confident the dragons will soon be ready.' WHERE word_id = 7078;
 UPDATE trans_words SET content_loc8='If you wait to come see me, there may be nothing left!' WHERE word_id = 7473;
@@ -58,7 +53,7 @@ UPDATE trans_words SET content_loc8='If I were smart, I\'d be selling this resea
 UPDATE trans_words SET content_loc8='If this is right, we don\'t have long! Oh well.' WHERE word_id = 7465;
 UPDATE trans_words SET content_loc8='This is the last time that I buy second-hand equipment from ethereal' WHERE word_id = 7466;
 UPDATE trans_words SET content_loc8='Not a challenge at all it seems. Let us see how hou handle your second test. Lysta, bring forth the minions of the Lich King.' WHERE word_id = 7561;
-UPDATE trans_words SET content_loc8='Honor your heroes! On this day, they have dealt a great blow against one of our most hated enemies! The false Warchief, Rend Blackhand, has fallen! ' WHERE word_id = 6937;
+UPDATE trans_words SET content_loc8='Honor your heroes! On this day, they have dealt a great blow against one of our most hated enemies! The false Warchief, Rend Blackhand, has fallen!' WHERE word_id = 6937;
 UPDATE trans_words SET content_loc8='Oh sweet, delicious, spotted eggs - you will be mine...' WHERE word_id = 7573;
 UPDATE trans_words SET content_loc8='Fresh bread for sale' WHERE word_id = 7515;
 UPDATE trans_words SET content_loc8='Get it while its hot' WHERE word_id = 7516;
@@ -67,7 +62,6 @@ UPDATE trans_words SET content_loc8='Get it while its hot' WHERE word_id = 7516;
 UPDATE trans_words SET content_loc8='Jack and Jill my wrinkled patoot! I do all the water luggin round here.' WHERE word_id = 7517;
 UPDATE trans_words SET content_loc8='Wheres the water Emma? Get the water Emma? Ifn it werent fer me that lot wouldnt know what water looks like.' WHERE word_id = 7518;
 UPDATE trans_words SET content_loc8='Of Course Im talking to myself. Only way to get a decent conversation in this city.' WHERE word_id = 7519;
-UPDATE trans_words SET content_loc8='As if I dont have better things to do in my old age than carry buckets of water.' WHERE word_id = 7520;
 UPDATE trans_words SET content_loc8='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE word_id = 5747;
 UPDATE trans_words SET content_loc8='Deja vu. For a moment I thought I was back home... before the plague...' WHERE word_id = 7093;
 UPDATE trans_words SET content_loc8='Children if you would please follow me, we will now be going to see the keep where King Anduin Wrynn himself sits on this throne.' WHERE word_id = 7113;
@@ -78,7 +72,6 @@ UPDATE trans_words SET content_loc8='Just sit right back and you\'ll hear a ta..
 UPDATE trans_words SET content_loc8='Who? The Tauren Chieftains! What? A live performance. Where? The World\'s End Tavern! When? The top of the hour! BE THERE!' WHERE word_id = 7439;
 UPDATE trans_words SET content_loc8='Yes you may, $N. But do not stray too far from home.' WHERE word_id = 7506;
 UPDATE trans_words SET content_loc8='Anaya\'s soft voice trails away into the mists. "Know that I love you always..."' WHERE word_id = 7428;
-UPDATE trans_words SET content_loc8='Stonemasons. . .errr. . Defias be warned: The rusty anchor sinks tonight.' WHERE word_id = 7570;
 UPDATE trans_words SET content_loc8='The boss wants all hands on high alert. The rusty anchor sinks tonight.' WHERE word_id = 7225;
 UPDATE trans_words SET content_loc8='Thanks, I shouldve never left Silverpine Forest.' WHERE word_id = 7624;
 
