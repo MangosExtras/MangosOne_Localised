@@ -8,7 +8,7 @@ UPDATE gossip_texts SET content_loc2='Pourriez-vous me consacrer un moment, mons
 UPDATE gossip_texts SET content_loc2='Je suis prête, Oronok. Détruisons Cyrukh et libérons les éléments !' WHERE entry=-3000109;
 UPDATE gossip_texts SET content_loc2='Pourquoi ... oui, bien sûr. J\'ai quelque chose à vous montrer à l\'intérieur de ce bâtiment, M. Anvilward.' WHERE entry=-3000110;
 UPDATE gossip_texts SET content_loc2='Tournez la clé afin de démarrer la machine.' WHERE entry=-3000111;
-UPDATE gossip_texts SET content_loc2='I am ready, Anchorite. Let us begin the exorcism.' WHERE entry=-3006669;
+UPDATE gossip_texts SET content_loc2='Je suis prête, anachorète. Commençons l\'exorcisme.' WHERE entry=-3006669;
 UPDATE gossip_texts SET content_loc2='Veuillez déverrouiller la porte de la cour.' WHERE entry=-3033000;
 UPDATE gossip_texts SET content_loc2='Que la cérémonie commence !' WHERE entry=-3043000;
 UPDATE gossip_texts SET content_loc2='Je peux commencer.' WHERE entry=-3090000;
