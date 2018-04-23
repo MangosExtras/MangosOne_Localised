@@ -178,8 +178,8 @@ UPDATE locales_item SET description_loc3='Teaches you how to cook Lean Venison.'
 UPDATE locales_item SET description_loc3='Something doesn\'t seem quite right about the soot-covered stone.' WHERE entry=5493;
 UPDATE locales_item SET description_loc3='The journal is waterlogged, but in otherwise good condition.' WHERE entry=5505;
 UPDATE locales_item SET description_loc3='A brilliant sheen glistens upon the stolen moonstone with a hint of something powerful within.' WHERE entry=5508;
-UPDATE locales_item SET name_loc3='Tiny Bronze Key',description_loc3='A reagent for mage spells.' WHERE entry=5517;
-UPDATE locales_item SET name_loc3='Tiny Iron Key',description_loc3='A reagent for mage spells.' WHERE entry=5518;
+UPDATE locales_item SET description_loc3='A reagent for mage spells.' WHERE entry=5517;
+UPDATE locales_item SET description_loc3='A reagent for mage spells.' WHERE entry=5518;
 UPDATE locales_item SET description_loc3='The final piece of Dartol\'s Rod.' WHERE entry=5519;
 UPDATE locales_item SET description_loc3='Teaches you how to cook a delicious Clam Chowder.' WHERE entry=5528;
 UPDATE locales_item SET description_loc3='Sealed by Brother Anton of the Scarlet Crusade' WHERE entry=5539;
@@ -197,7 +197,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to craft a Murloc Scal
 UPDATE locales_item SET description_loc3='Teaches you how to craft a Murloc Scale Breastplate.' WHERE entry=5787;
 UPDATE locales_item SET description_loc3='Teaches you how to craft Thick Murloc Armor.' WHERE entry=5788;
 UPDATE locales_item SET description_loc3='Teaches you how to craft Murloc Scale Bracers.' WHERE entry=5789;
-UPDATE locales_item SET name_loc3='Goblin Prize Box',description_loc3='Open for a prize!' WHERE entry=5858;
+UPDATE locales_item SET description_loc3='Open for a prize!' WHERE entry=5858;
 UPDATE locales_item SET description_loc3='Teaches you how to craft Fine Leather Pants.' WHERE entry=5972;
 UPDATE locales_item SET description_loc3='Teaches you how to craft Barbaric Leggings.' WHERE entry=5973;
 UPDATE locales_item SET description_loc3='Teaches you how to craft a Guardian Cloak.' WHERE entry=5974;
@@ -242,7 +242,7 @@ UPDATE locales_item SET description_loc3='Venture Company Supplies' WHERE entry=
 UPDATE locales_item SET description_loc3='Venture Company Supplies' WHERE entry=6357;
 UPDATE locales_item SET description_loc3='Teaches you how to cook Rainbow Fin Albacore.' WHERE entry=6368;
 UPDATE locales_item SET description_loc3='Teaches you how to cook Rockscale Cod.' WHERE entry=6369;
-UPDATE locales_item SET name_loc3='Enchanted Powder',description_loc3='Used by Enchanters to enchant items.' WHERE entry=6374;
+UPDATE locales_item SET description_loc3='Used by Enchanters to enchant items.' WHERE entry=6374;
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a bracer to give +3 Spirit.' WHERE entry=6375;
 UPDATE locales_item SET name_loc3='Formula: Enchant Boots - Minor Stamina',description_loc3='Teaches you how to permanently enchant a pair of boots to grant +1 Stamina.' WHERE entry=6376;
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a pair of boots to grant +1 Agility.' WHERE entry=6377;
@@ -262,7 +262,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to make EZ-Thro Dynami
 UPDATE locales_item SET description_loc3='Teaches you how to make an Ironforge Breastplate.' WHERE entry=6735;
 UPDATE locales_item SET description_loc3='By the hand of Khadgar' WHERE entry=6785;
 UPDATE locales_item SET description_loc3='Like driven snow, but much warmer.' WHERE entry=6787;
-UPDATE locales_item SET name_loc3='Recipe: Herb Baked Egg',description_loc3='Teaches you how to cook a Herb Baked Egg.' WHERE entry=6891;
+UPDATE locales_item SET description_loc3='Teaches you how to cook a Herb Baked Egg.' WHERE entry=6891;
 UPDATE locales_item SET description_loc3='Teaches you how to cook Smoked Bear Meat.' WHERE entry=6892;
 UPDATE locales_item SET description_loc3='This letter is sealed' WHERE entry=6926;
 UPDATE locales_item SET description_loc3='Faint letters on the cover of the locked book read, \'Tome of the Cabal.\'' WHERE entry=6931;
@@ -330,7 +330,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Runed Mithri
 UPDATE locales_item SET description_loc3='Teaches you how to make a Wicked Mithril Blade.' WHERE entry=8029;
 UPDATE locales_item SET description_loc3='Teaches you how to make an Ebon Shiv.' WHERE entry=8030;
 UPDATE locales_item SET description_loc3='The glowing emerald just needs to be pulled out...' WHERE entry=8049;
-UPDATE locales_item SET name_loc3='Tiny Copper Key',description_loc3='A reagent for mage spells.' WHERE entry=8147;
+UPDATE locales_item SET description_loc3='A reagent for mage spells.' WHERE entry=8147;
 UPDATE locales_item SET description_loc3='Not quite as good as the 2 Ring' WHERE entry=8350;
 UPDATE locales_item SET description_loc3='Teaches you how to craft a Comfortable Leather Hat.' WHERE entry=8384;
 UPDATE locales_item SET description_loc3='Teaches you how to craft Turtle Scale Gloves.' WHERE entry=8385;
@@ -458,7 +458,7 @@ UPDATE locales_item SET description_loc3='The massive box is surprisingly light.
 UPDATE locales_item SET description_loc3='Once worn by Grol the Destroyer.' WHERE entry=10753;
 UPDATE locales_item SET description_loc3='The putrid scent of Sevine still radiates from this amulet.' WHERE entry=10754;
 UPDATE locales_item SET description_loc3='The only thing that remains from a once powerful sorcerer.' WHERE entry=10755;
-UPDATE locales_item SET name_loc3='Ward of the Defiler',description_loc3='The completed amulet of Rakh\'likh.' WHERE entry=10757;
+UPDATE locales_item SET description_loc3='The completed amulet of Rakh\'likh.' WHERE entry=10757;
 UPDATE locales_item SET description_loc3='A severed and bloody horn of Razelikh the Defiler.' WHERE entry=10759;
 UPDATE locales_item SET description_loc3='A member in good standing of the Mechanical Engineering Guild, Associated.' WHERE entry=10790;
 UPDATE locales_item SET description_loc3='A member in good standing of the Goblin Experimental Engineering Korporation.' WHERE entry=10791;
@@ -1482,7 +1482,7 @@ UPDATE locales_item SET description_loc3='The indelible mark of the Argent Dawn 
 UPDATE locales_item SET description_loc3='A splinter of Atiesh, Greatstaff of the Guardian.' WHERE entry=22726;
 UPDATE locales_item SET description_loc3='The head and base are missing.' WHERE entry=22727;
 UPDATE locales_item SET description_loc3='Teaches you how to make a Steam Tonk Controller.' WHERE entry=22729;
-UPDATE locales_item SET name_loc3='Andonisus, Reaper of Souls',description_loc3='This blade is dimensional. It appears to be fading from this plane of existence.' WHERE entry=22736;
+UPDATE locales_item SET description_loc3='This blade is dimensional. It appears to be fading from this plane of existence.' WHERE entry=22736;
 UPDATE locales_item SET description_loc3='Teaches Polymorph: Turtle.' WHERE entry=22739;
 UPDATE locales_item SET description_loc3='Teaches you how to make an Ironvine Breastplate.' WHERE entry=22766;
 UPDATE locales_item SET description_loc3='Teaches you how to make Ironvine Gloves.' WHERE entry=22767;
@@ -1974,9 +1974,9 @@ UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Wat
 UPDATE locales_item SET description_loc3='With this trusty warding talisman, no tikbalang will ever find you and steal you away to the treetops. It really works!' WHERE entry=27992;
 UPDATE locales_item SET description_loc3='They won\'t see you coming but they\'ll definitely see you leaving.' WHERE entry=28032;
 UPDATE locales_item SET description_loc3='Manufactured: Garvin the Goblin, Area 52' WHERE entry=28038;
-UPDATE locales_item SET name_loc3='Legion Missive',description_loc3='Bears the seal of Arazzius.' WHERE entry=28046;
+UPDATE locales_item SET description_loc3='Bears the seal of Arazzius.' WHERE entry=28046;
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28066;
-UPDATE locales_item SET name_loc3='Legion Missive',description_loc3='Bears the seal of Arazzius.' WHERE entry=28107;
+UPDATE locales_item SET description_loc3='Bears the seal of Arazzius.' WHERE entry=28107;
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28248;
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a chest item to give 15 resilience rating.' WHERE entry=28270;
 UPDATE locales_item SET name_loc3='Formula: Enchant Gloves - Spell Strike',description_loc3='Teaches you how to permanently enchant gloves to grant 15 spell hit rating.' WHERE entry=28271;

@@ -541,7 +541,6 @@ UPDATE trans_words SET content_loc3='Human Arrow' WHERE word_id = 117525;
 UPDATE trans_words SET content_loc3='Human Arrows' WHERE word_id = 117526;
 UPDATE trans_words SET content_loc3='Axe 2' WHERE word_id = 117528;
 UPDATE trans_words SET content_loc3='Bow 2' WHERE word_id = 117530;
-UPDATE trans_words SET content_loc3='Hammer' WHERE word_id = 9553;
 UPDATE trans_words SET content_loc3='Hammer 2' WHERE word_id = 117531;
 UPDATE trans_words SET content_loc3='Mace 2' WHERE word_id = 117532;
 UPDATE trans_words SET content_loc3='Spear 2' WHERE word_id = 117534;
@@ -1397,7 +1396,6 @@ UPDATE trans_words SET content_loc3='The Royal Exchange Auction House' WHERE wor
 UPDATE trans_words SET content_loc3='Trade & Training Organization for Jewelers' WHERE word_id = 118352;
 UPDATE trans_words SET content_loc3='The Paladian Blood Knights Order' WHERE word_id = 118353;
 UPDATE trans_words SET content_loc3='Silvermoon Hunter\'s Lodge' WHERE word_id = 118354;
-UPDATE trans_words SET content_loc3='D.I.S.C.O.' WHERE word_id = 34669;
 UPDATE trans_words SET content_loc3='Troll Hut Desert Small' WHERE word_id = 118361;
 UPDATE trans_words SET content_loc3='Fel Orc Encampment Custom Area' WHERE word_id = 116892;
 UPDATE trans_words SET content_loc3='Shopping Centre' WHERE word_id = 116893;
