@@ -1535,7 +1535,6 @@ UPDATE trans_words SET content_loc7='The Royal Exchange Auction House' WHERE wor
 UPDATE trans_words SET content_loc7='Trade & Training Organization for Jewelers' WHERE word_id = 118352;
 UPDATE trans_words SET content_loc7='The Paladian Blood Knights Order' WHERE word_id = 118353;
 UPDATE trans_words SET content_loc7='Silvermoon Hunter\'s Lodge' WHERE word_id = 118354;
-UPDATE trans_words SET content_loc7='D.I.S.C.O.' WHERE word_id = 34669;
 UPDATE trans_words SET content_loc7='Troll Hut Desert Small' WHERE word_id = 118361;
 UPDATE trans_words SET content_loc7='Fel Orc Encampment Custom Area' WHERE word_id = 116892;
 UPDATE trans_words SET content_loc7='Shopping Centre' WHERE word_id = 116893;
