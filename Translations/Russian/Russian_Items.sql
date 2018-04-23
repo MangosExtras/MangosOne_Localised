@@ -2989,6 +2989,7 @@ UPDATE locales_item SET name_loc8='Коралловое кольцо' WHERE entr
 UPDATE locales_item SET name_loc8='Кольцо сердца' WHERE entry=5001;
 UPDATE locales_item SET name_loc8='Светящийся зеленый талисман' WHERE entry=5002;
 UPDATE locales_item SET name_loc8='Хрустальный медальон Звездного огня' WHERE entry=5003;
+UPDATE locales_item SET name_loc8='Метка Кирин-Тора' WHERE entry=5004;
 UPDATE locales_item SET name_loc8='Подвеска Неостывших углей' WHERE entry=5005;
 UPDATE locales_item SET name_loc8='Записи Хазгорма' WHERE entry=5006;
 UPDATE locales_item SET name_loc8='Кольцо шипов' WHERE entry=5007;
@@ -2997,6 +2998,7 @@ UPDATE locales_item SET name_loc8='Кольцо подчинения разум�
 UPDATE locales_item SET name_loc8='Покрытое письменами золотое кольцо' WHERE entry=5010;
 UPDATE locales_item SET name_loc8='Кольцо небосвода' WHERE entry=5011;
 UPDATE locales_item SET name_loc8='Споры грибов' WHERE entry=5012;
+UPDATE locales_item SET name_loc8='Свежая луковица' WHERE entry=5013;
 UPDATE locales_item SET name_loc8='Брюки мастерового' WHERE entry=5016;
 UPDATE locales_item SET name_loc8='Нитроглицерин' WHERE entry=5017;
 UPDATE locales_item SET name_loc8='Древесная сердцевина' WHERE entry=5018;
@@ -3216,6 +3218,7 @@ UPDATE locales_item SET name_loc8='Вспыхивающая дубинка' WHER
 UPDATE locales_item SET name_loc8='Замасленные штаны ремонтника' WHERE entry=5327;
 UPDATE locales_item SET name_loc8='Пояс с застежкой' WHERE entry=5328;
 UPDATE locales_item SET name_loc8='Статуэтка кошки' WHERE entry=5329;
+UPDATE locales_item SET name_loc8='Реликтовая эльфийская чаша' WHERE entry=5330;
 UPDATE locales_item SET name_loc8='Светящаяся статуэтка кошки' WHERE entry=5332;
 UPDATE locales_item SET name_loc8='Реликвия Матистры' WHERE entry=5333;
 UPDATE locales_item SET name_loc8='Портвейн 99-летней выдержки' WHERE entry=5334;
@@ -3603,6 +3606,7 @@ UPDATE locales_item SET name_loc8='Чертежи топливного регу�
 UPDATE locales_item SET name_loc8='Целый силитидский панцирь' WHERE entry=5853;
 UPDATE locales_item SET name_loc8='Шпора силитида' WHERE entry=5854;
 UPDATE locales_item SET name_loc8='Сердце силитида' WHERE entry=5855;
+UPDATE locales_item SET name_loc8='Призовой сундучок гоблинов' WHERE entry=5858;
 UPDATE locales_item SET name_loc8='Петарда для вечеринки' WHERE entry=5859;
 UPDATE locales_item SET name_loc8='Наследие Аспектов' WHERE entry=5860;
 UPDATE locales_item SET name_loc8='"Истоки угрозы нежити"' WHERE entry=5861;
@@ -3776,6 +3780,7 @@ UPDATE locales_item SET name_loc8='Накидка капера' WHERE entry=6179
 UPDATE locales_item SET name_loc8='Кожа сларка' WHERE entry=6180;
 UPDATE locales_item SET name_loc8='Фетиш Хаккара' WHERE entry=6181;
 UPDATE locales_item SET name_loc8='Горящий Факел' WHERE entry=6182;
+UPDATE locales_item SET name_loc8='Незажженный плохой факел' WHERE entry=6183;
 UPDATE locales_item SET name_loc8='Ножка чудовищного краба' WHERE entry=6184;
 UPDATE locales_item SET name_loc8='Медвежья шаль' WHERE entry=6185;
 UPDATE locales_item SET name_loc8='Троггорез' WHERE entry=6186;
@@ -3840,6 +3845,7 @@ UPDATE locales_item SET name_loc8='Выкройка: красный льняно
 UPDATE locales_item SET name_loc8='Выкройка: синее льняное одеяние',description_loc8='Обучает пошиву синего льняного одеяния.' WHERE entry=6272;
 UPDATE locales_item SET name_loc8='Выкройка: синий комбинезон',description_loc8='Обучает пошиву синего комбинезона.' WHERE entry=6274;
 UPDATE locales_item SET name_loc8='Выкройка: большее одеяние адепта',description_loc8='Обучает пошиву большего одеяния адепта.' WHERE entry=6275;
+UPDATE locales_item SET name_loc8='Заплесневелое послание' WHERE entry=6280;
 UPDATE locales_item SET name_loc8='Череп гремучего скелета' WHERE entry=6281;
 UPDATE locales_item SET name_loc8='Священные погребальные брюки' WHERE entry=6282;
 UPDATE locales_item SET name_loc8='Книга Ура' WHERE entry=6283;
@@ -3930,6 +3936,7 @@ UPDATE locales_item SET name_loc8='Масло черноротика' WHERE entr
 UPDATE locales_item SET name_loc8='Зажигательное масло' WHERE entry=6371;
 UPDATE locales_item SET name_loc8='Зелье быстрого плавания' WHERE entry=6372;
 UPDATE locales_item SET name_loc8='Эликсир огневой мощи' WHERE entry=6373;
+UPDATE locales_item SET name_loc8='Зачарованный порошок' WHERE entry=6374;
 UPDATE locales_item SET name_loc8='Формула чар для наручей - дух II',description_loc8='Обучает наложению на наручи чар, повышающих дух на 3.' WHERE entry=6375;
 UPDATE locales_item SET name_loc8='Формула чар для обуви - ловкость I',description_loc8='Обучает наложению на обувь чар, повышающих ловкость на 1.' WHERE entry=6377;
 UPDATE locales_item SET name_loc8='Накидка Провидца' WHERE entry=6378;
@@ -4323,6 +4330,7 @@ UPDATE locales_item SET name_loc8='Пятнистый желтохвост' WHER
 UPDATE locales_item SET name_loc8='Яйцо с травами' WHERE entry=6888;
 UPDATE locales_item SET name_loc8='Небольшое яйцо' WHERE entry=6889;
 UPDATE locales_item SET name_loc8='Копченая медвежатина' WHERE entry=6890;
+UPDATE locales_item SET name_loc8='Рецепт: яйцо с травами' WHERE entry=6891;
 UPDATE locales_item SET name_loc8='Рецепт: копченая медвежатина',description_loc8='Обучает приготовлению копченой медвежатины.' WHERE entry=6892;
 UPDATE locales_item SET name_loc8='Ключ от мастерской' WHERE entry=6893;
 UPDATE locales_item SET name_loc8='Сердце Вихря' WHERE entry=6894;
@@ -4727,6 +4735,7 @@ UPDATE locales_item SET name_loc8='Наручи защитника' WHERE entry=
 UPDATE locales_item SET name_loc8='Ремень Защитника' WHERE entry=7546;
 UPDATE locales_item SET name_loc8='Ониксовое кольцо' WHERE entry=7547;
 UPDATE locales_item SET name_loc8='Волшебное облачение' WHERE entry=7549;
+UPDATE locales_item SET name_loc8='Честь Воителя' WHERE entry=7550;
 UPDATE locales_item SET name_loc8='Перевитый опалиновый талисман' WHERE entry=7551;
 UPDATE locales_item SET name_loc8='Драгоценность Сокола' WHERE entry=7552;
 UPDATE locales_item SET name_loc8='Кольцо единорога' WHERE entry=7553;
@@ -5287,7 +5296,7 @@ UPDATE locales_item SET name_loc8='Поводья полосатого ночн�
 UPDATE locales_item SET name_loc8='Поводья бенгальского тигра',description_loc8='Обучает управлению этим верховым животным.' WHERE entry=8630;
 UPDATE locales_item SET name_loc8='Поводья полосатого ледопарда',description_loc8='Обучает управлению этим верховым животным.' WHERE entry=8631;
 UPDATE locales_item SET name_loc8='Поводья пятнистого ледопарда',description_loc8='Обучает управлению этим верховым животным.' WHERE entry=8632;
-UPDATE locales_item SET name_loc8='',description_loc8='Обучает управлению этим верховым животным.' WHERE entry=8633;
+UPDATE locales_item SET name_loc8='Поводья леопарда',description_loc8='Обучает управлению этим верховым животным.' WHERE entry=8633;
 UPDATE locales_item SET name_loc8='Необыкновенное яйцо',description_loc8='Что-то с этим яйцом не так...' WHERE entry=8643;
 UPDATE locales_item SET name_loc8='Нормальное яйцо' WHERE entry=8644;
 UPDATE locales_item SET name_loc8='Обычное яйцо' WHERE entry=8645;
@@ -8166,6 +8175,7 @@ UPDATE locales_item SET name_loc8='Сырой ночной луциан' WHERE e
 UPDATE locales_item SET name_loc8='Сырой солнечный лосось' WHERE entry=13760;
 UPDATE locales_item SET name_loc8='Охлажденные яйца' WHERE entry=13761;
 UPDATE locales_item SET name_loc8='Благословенный солнцеплод' WHERE entry=13810;
+UPDATE locales_item SET name_loc8='Кольцо рассвета' WHERE entry=13812;
 UPDATE locales_item SET name_loc8='Сок благословенного солнцеплода' WHERE entry=13813;
 UPDATE locales_item SET name_loc8='Некая руна' WHERE entry=13815;
 UPDATE locales_item SET name_loc8='Тонкий длинный меч' WHERE entry=13816;
@@ -14665,6 +14675,7 @@ UPDATE locales_item SET name_loc8='Тусклый некротический к�
 UPDATE locales_item SET name_loc8='Голова Лузрана' WHERE entry=22893;
 UPDATE locales_item SET name_loc8='Голова Гнилоступа' WHERE entry=22894;
 UPDATE locales_item SET name_loc8='Сотворенная плюшка с корицей' WHERE entry=22895;
+UPDATE locales_item SET name_loc8='Исцеляющий кристалл' WHERE entry=22896;
 UPDATE locales_item SET name_loc8='Фолиант Сотворения яств VII',description_loc8='Обучает заклинанию "Сотворение яств" (уровень 7).' WHERE entry=22897;
 UPDATE locales_item SET name_loc8='Рецепт: эликсир маскировки',description_loc8='Обучает приготовлению эликсира маскировки.' WHERE entry=22900;
 UPDATE locales_item SET name_loc8='Рецепт: зелье лазутчика',description_loc8='Обучает приготовлению зелья лазутчика.' WHERE entry=22901;
@@ -17977,6 +17988,7 @@ UPDATE locales_item SET name_loc8='Запалы Кингстона' WHERE entry=
 UPDATE locales_item SET name_loc8='Официальное письмо Легиона',description_loc8='Имеет печать Араззиуса.' WHERE entry=28107;
 UPDATE locales_item SET name_loc8='Могущественный гриб' WHERE entry=28108;
 UPDATE locales_item SET name_loc8='Гриб Сущности' WHERE entry=28109;
+UPDATE locales_item SET name_loc8='Толстый гном и Тощий эльф' WHERE entry=28110;
 UPDATE locales_item SET name_loc8='Вечная ветвь подспорника' WHERE entry=28111;
 UPDATE locales_item SET name_loc8='Плод подспорника' WHERE entry=28112;
 UPDATE locales_item SET name_loc8='Обломки дирижабля' WHERE entry=28116;
@@ -17993,6 +18005,7 @@ UPDATE locales_item SET name_loc8='Шлем гладиатора из драко
 UPDATE locales_item SET name_loc8='Набедренники гладиатора из драконьей шкуры' WHERE entry=28128;
 UPDATE locales_item SET name_loc8='Наплеч гладиатора из драконьей шкуры' WHERE entry=28129;
 UPDATE locales_item SET name_loc8='Мундир гладиатора из драконьей шкуры' WHERE entry=28130;
+UPDATE locales_item SET name_loc8='Разбойничий гранатомет' WHERE entry=28131;
 UPDATE locales_item SET name_loc8='Сюрприз из Зоны-52' WHERE entry=28132;
 UPDATE locales_item SET name_loc8='Брошь Повышенного Потенциала' WHERE entry=28134;
 UPDATE locales_item SET name_loc8='Перчатки гладиатора из шкуры змея' WHERE entry=28136;
