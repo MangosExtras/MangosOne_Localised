@@ -26,7 +26,6 @@ UPDATE trans_words SET content_loc9='%s hugs her father.' WHERE word_id = 22;
 UPDATE trans_words SET content_loc9='Thank you for agreeing to help. Now, let\'s get out of here $N.' WHERE word_id = 23;
 UPDATE trans_words SET content_loc9='Over there! They\'re following us!' WHERE word_id = 24;
 UPDATE trans_words SET content_loc9='Allow me a moment to rest. The journey taxes what little strength I have.' WHERE word_id = 25;
-UPDATE trans_words SET content_loc9='Did you hear something?' WHERE word_id = 26;
 UPDATE trans_words SET content_loc9='Falcon Watch, at last! Now, where\'s my... Oh no! My pack, it\'s missing! Where has -' WHERE word_id = 27;
 UPDATE trans_words SET content_loc9='You won\'t keep me from getting to Falcon Watch!' WHERE word_id = 28;
 UPDATE trans_words SET content_loc9='Ready when you are, $C.' WHERE word_id = 29;
@@ -70,7 +69,6 @@ UPDATE trans_words SET content_loc9='Magnitude set. Release.' WHERE word_id = 13
 UPDATE trans_words SET content_loc9='Trajectory locked.' WHERE word_id = 1332;
 UPDATE trans_words SET content_loc9='Engage maximum speed.' WHERE word_id = 1333;
 UPDATE trans_words SET content_loc9='Threat level zero.' WHERE word_id = 1334;
-UPDATE trans_words SET content_loc9='Directive accomplished.' WHERE word_id = 1335;
 UPDATE trans_words SET content_loc9='Target exterminated.' WHERE word_id = 1336;
 UPDATE trans_words SET content_loc9='System failure in five, f-o-u-r...' WHERE word_id = 1337;
 UPDATE trans_words SET content_loc9='Who dares awaken Aquementas?' WHERE word_id = 65;
@@ -838,7 +836,6 @@ UPDATE trans_words SET content_loc9='The charges are set. Get back before they b
 UPDATE trans_words SET content_loc9='Incoming blast in 10 seconds!' WHERE word_id = 822;
 UPDATE trans_words SET content_loc9='Incoming blast in 5 seconds. Clear the tunnel! Stay back!' WHERE word_id = 823;
 UPDATE trans_words SET content_loc9='Well done! Without your help I would have never been able to thwart that wave of troggs.' WHERE word_id = 825;
-UPDATE trans_words SET content_loc9='Did you hear something?' WHERE word_id = 26;
 UPDATE trans_words SET content_loc9='I heard something over there.' WHERE word_id = 826;
 UPDATE trans_words SET content_loc9='More troggs! Ward them off as I prepare the explosives!' WHERE word_id = 827;
 UPDATE trans_words SET content_loc9='The final charge is set. Stand back!' WHERE word_id = 828;
@@ -996,7 +993,6 @@ UPDATE trans_words SET content_loc9='Feast on $N, my pretties!' WHERE word_id = 
 UPDATE trans_words SET content_loc9='At last, I am free of the Soulflayer!' WHERE word_id = 949;
 UPDATE trans_words SET content_loc9='Welcome to da great show friends! Step right up to die!' WHERE word_id = 950;
 UPDATE trans_words SET content_loc9='I\'ll feed your souls to Hakkar himself!' WHERE word_id = 951;
-UPDATE trans_words SET content_loc9='DING!' WHERE word_id = 952;
 UPDATE trans_words SET content_loc9='GRATS!' WHERE word_id = 953;
 UPDATE trans_words SET content_loc9='$N! I\'m watching you!' WHERE word_id = 954;
 UPDATE trans_words SET content_loc9='Don\'t make me angry. You won\'t like it when I\'m angry.' WHERE word_id = 955;
@@ -1568,7 +1564,6 @@ UPDATE trans_words SET content_loc9='My blood will be the end of you!' WHERE wor
 UPDATE trans_words SET content_loc9='Thank you for releasing me. Now...die!' WHERE word_id = 1675;
 UPDATE trans_words SET content_loc9='Not again...NOT AGAIN!' WHERE word_id = 1676;
 UPDATE trans_words SET content_loc9='I will not be taken so easily. Let the walls of this prison tremble...and FALL!!!' WHERE word_id = 1677;
-UPDATE trans_words SET content_loc9='Did you think me weak? Soft? Who is the weak one now?!' WHERE word_id = 1678;
 UPDATE trans_words SET content_loc9='The Legion...will consume you...all...' WHERE word_id = 1679;
 UPDATE trans_words SET content_loc9='%s begins to cast Blast Nova!' WHERE word_id = 1680;
 UPDATE trans_words SET content_loc9='%s\'s bonds begin to weaken!' WHERE word_id = 1681;
@@ -1743,7 +1738,6 @@ UPDATE trans_words SET content_loc9='Defend yourself, for all the good it will d
 UPDATE trans_words SET content_loc9='Knew this was... the only way out' WHERE word_id = 1854;
 UPDATE trans_words SET content_loc9='Yes, that was quite satisfying' WHERE word_id = 1855;
 UPDATE trans_words SET content_loc9='At last, a target for my frustrations!' WHERE word_id = 1856;
-UPDATE trans_words SET content_loc9='Did you call on me?' WHERE word_id = 1857;
 UPDATE trans_words SET content_loc9='Why would I call on you?' WHERE word_id = 1858;
 UPDATE trans_words SET content_loc9='To do your heavy lifting, most likely.' WHERE word_id = 1859;
 UPDATE trans_words SET content_loc9='When I need someone to prance around like an overstuffed peacock, I\'ll call on you.' WHERE word_id = 1860;
@@ -2078,7 +2072,6 @@ UPDATE trans_words SET content_loc9='Stay' WHERE word_id = 2177;
 UPDATE trans_words SET content_loc9='Beg... for life' WHERE word_id = 2178;
 UPDATE trans_words SET content_loc9='No more' WHERE word_id = 2179;
 UPDATE trans_words SET content_loc9='Unworthy' WHERE word_id = 2180;
-UPDATE trans_words SET content_loc9='Die' WHERE word_id = 2181;
 UPDATE trans_words SET content_loc9='%s grows in size!' WHERE word_id = 2183;
 UPDATE trans_words SET content_loc9='Spirits of da wind be your doom!' WHERE word_id = 2184;
 UPDATE trans_words SET content_loc9='I burn ya now!' WHERE word_id = 2185;
@@ -2133,7 +2126,6 @@ UPDATE trans_words SET content_loc9='Your soul gonna bleed!' WHERE word_id = 223
 UPDATE trans_words SET content_loc9='It not gonna make no difference.' WHERE word_id = 2236;
 UPDATE trans_words SET content_loc9='You gonna die worse dan him.' WHERE word_id = 2237;
 UPDATE trans_words SET content_loc9='Dat no bodda me.' WHERE word_id = 2238;
-UPDATE trans_words SET content_loc9='Dis not... da end of me...' WHERE word_id = 2239;
 UPDATE trans_words SET content_loc9='Everybody always wanna take from us. Now we gonna start takin\' back. Anybody who get in our way...gonna drown in dey own blood! Da Amani empire be back now...seekin\' vengeance. And we gonna start wit\' you.' WHERE word_id = 2240;
 UPDATE trans_words SET content_loc9='Nobody badduh dan me!' WHERE word_id = 2241;
 UPDATE trans_words SET content_loc9='Got me some new tricks... like me brudda bear....' WHERE word_id = 2242;

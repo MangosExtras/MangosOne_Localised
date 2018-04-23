@@ -126,7 +126,6 @@ UPDATE trans_words SET content_loc9='Ok, let\'s go.  I know just the perfect spo
 UPDATE trans_words SET content_loc9='What... is happening... to me?  Get this cat away from me!' WHERE word_id = 7871;
 UPDATE trans_words SET content_loc9='Twinkle looks at Viera Sunwhisper with very hungry eyes.' WHERE word_id = 7619;
 UPDATE trans_words SET content_loc9='%s scurries away, attempting to flee from Twinkle.' WHERE word_id = 7620;
-UPDATE trans_words SET content_loc9='Did you find something fun to chase around, Twinkle? I bet you did!' WHERE word_id = 7621;
 UPDATE trans_words SET content_loc9='It\'s just you and me, Twinkle. Daddy\'s not going to be coming home.' WHERE word_id = 7622;
 UPDATE trans_words SET content_loc9='I wonder how far this would launch that white cat...' WHERE word_id = 7623;
 UPDATE trans_words SET content_loc9='As the neutralizing agent mixes into the waters of the lake, the water that was irradiated by the crystal seems to clear.' WHERE word_id = 7668;

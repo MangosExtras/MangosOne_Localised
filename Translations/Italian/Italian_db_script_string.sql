@@ -3,6 +3,7 @@ SET NAMES 'utf8';
 UPDATE db_script_string SET content_loc9='Ho bisogno di consultare Noram e Horatio.' WHERE entry=2000000021;
 UPDATE db_script_string SET content_loc9='Il tuo corpo è mio! I nostri destini sono per sempre intrecciati!' WHERE entry=2000000031;
 UPDATE db_script_string SET content_loc9='ROARRRRR !!' WHERE entry=2000000161;
+UPDATE db_script_string SET content_loc9='Hai trovato qualcosa di divertente da inseguire, Twinkle? Scommetto che l\'hai fatto!' WHERE entry=2000000404;
 UPDATE db_script_string SET content_loc9='Successo!' WHERE entry=2000000637;
 UPDATE db_script_string SET content_loc9='Vuoi andare a fare la taglia fuori da questo poster ricercato dopo che questo turno è finito?' WHERE entry=2000005047;
 UPDATE db_script_string SET content_loc9='Pane fresco in vendita' WHERE entry=2000005099;
