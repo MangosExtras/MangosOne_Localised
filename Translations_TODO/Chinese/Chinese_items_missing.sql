@@ -2,12 +2,12 @@
 SET NAMES 'utf8';
 UPDATE locales_item SET description_loc4='Engraved with the words \'For years of service: -EVC.\'' WHERE entry=2239;
 UPDATE locales_item SET description_loc4='NYI - THIS ITEM WILL SPAWN A QUEST' WHERE entry=3744;
-UPDATE locales_item SET name_loc4='Goblin Prize Box',description_loc4='Open for a prize!' WHERE entry=5858;
+UPDATE locales_item SET description_loc4='Open for a prize!' WHERE entry=5858;
 UPDATE locales_item SET name_loc4='Mystical Powder',description_loc4='Used by Enchanters to enchant items.' WHERE entry=6216;
 UPDATE locales_item SET name_loc4='Formula: Imbue Cloak - Protection',description_loc4='Teaches you how to permanently enchant a cloak to give 10 additional armor.' WHERE entry=6345;
-UPDATE locales_item SET name_loc4='Enchanted Powder',description_loc4='Used by Enchanters to enchant items.' WHERE entry=6374;
+UPDATE locales_item SET description_loc4='Used by Enchanters to enchant items.' WHERE entry=6374;
 UPDATE locales_item SET name_loc4='Formula: Enchant Boots - Minor Stamina',description_loc4='Teaches you how to permanently enchant a pair of boots to grant +1 Stamina.' WHERE entry=6376;
-UPDATE locales_item SET name_loc4='Recipe: Herb Baked Egg',description_loc4='Teaches you how to cook a Herb Baked Egg.' WHERE entry=6891;
+UPDATE locales_item SET description_loc4='Teaches you how to cook a Herb Baked Egg.' WHERE entry=6891;
 UPDATE locales_item SET name_loc4='Plans: Goblin Rocket Boots',description_loc4='Teaches you how to make Goblin Rocket Boots.' WHERE entry=7192;
 UPDATE locales_item SET description_loc4='Teaches you how to make Thorium Shells.' WHERE entry=16051;
 UPDATE locales_item SET description_loc4='Only ONE May Rise... (and consequently, only ONE may loot this head)' WHERE entry=20383;
@@ -64,9 +64,9 @@ UPDATE locales_item SET name_loc4='Jump-a-tron 4000 Key',description_loc4='Etche
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=27815;
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=27947;
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=27984;
-UPDATE locales_item SET name_loc4='Legion Missive',description_loc4='Bears the seal of Arazzius.' WHERE entry=28046;
+UPDATE locales_item SET description_loc4='Bears the seal of Arazzius.' WHERE entry=28046;
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28066;
-UPDATE locales_item SET name_loc4='Legion Missive',description_loc4='Bears the seal of Arazzius.' WHERE entry=28107;
+UPDATE locales_item SET description_loc4='Bears the seal of Arazzius.' WHERE entry=28107;
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28248;
 UPDATE locales_item SET description_loc4='Teaches you how to permanently enchant a chest item to give 15 resilience rating.' WHERE entry=28270;
 UPDATE locales_item SET name_loc4='Formula: Enchant Gloves - Spell Strike',description_loc4='Teaches you how to permanently enchant gloves to grant 15 spell hit rating.' WHERE entry=28271;
@@ -101,7 +101,7 @@ UPDATE locales_item SET description_loc4='Teaches you how to cut a Infused Night
 UPDATE locales_item SET description_loc4='Teaches you how to cut a Infused Shadowsong Amethyst.' WHERE entry=32300;
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=32330;
 UPDATE locales_item SET description_loc4='And from the ashes it was reborn...' WHERE entry=32458;
-UPDATE locales_item SET name_loc4='The Macho Gnome\'s Arrow',description_loc4='Fletched by Andy "The Macho Gnome" Savage.' WHERE entry=32760;
+UPDATE locales_item SET description_loc4='Fletched by Andy "The Macho Gnome" Savage.' WHERE entry=32760;
 UPDATE locales_item SET description_loc4='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=33078;
 UPDATE locales_item SET description_loc4='Teaches you how to permanently enchant a weapon to grant 20 Agility.' WHERE entry=33165;
 UPDATE locales_item SET description_loc4='Learn how to permanently enchant a Melee Weapon to occasionally ignore 840 of your enemy\'s armor.  Requires a level 60 or higher item.' WHERE entry=33307;
