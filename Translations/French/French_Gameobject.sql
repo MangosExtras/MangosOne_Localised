@@ -8236,6 +8236,7 @@ UPDATE locales_gameobject SET name_loc2='Glaurier' WHERE entry=181272;
 UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=181273;
 UPDATE locales_gameobject SET name_loc2='Voile-misère' WHERE entry=181275;
 UPDATE locales_gameobject SET name_loc2='Chapeflamme' WHERE entry=181276;
+UPDATE locales_gameobject SET name_loc2='Terocône' WHERE entry=181277;
 UPDATE locales_gameobject SET name_loc2='Lichen ancien' WHERE entry=181278;
 UPDATE locales_gameobject SET name_loc2='Néantine' WHERE entry=181279;
 UPDATE locales_gameobject SET name_loc2='Cauchemardelle' WHERE entry=181280;

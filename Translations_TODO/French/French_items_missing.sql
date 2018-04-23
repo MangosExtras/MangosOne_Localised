@@ -195,7 +195,7 @@ UPDATE locales_item SET description_loc2='Teaches you how to craft a Murloc Scal
 UPDATE locales_item SET description_loc2='Teaches you how to craft a Murloc Scale Breastplate.' WHERE entry=5787;
 UPDATE locales_item SET description_loc2='Teaches you how to craft Thick Murloc Armor.' WHERE entry=5788;
 UPDATE locales_item SET description_loc2='Teaches you how to craft Murloc Scale Bracers.' WHERE entry=5789;
-UPDATE locales_item SET name_loc2='Goblin Prize Box',description_loc2='Open for a prize!' WHERE entry=5858;
+UPDATE locales_item SET description_loc2='Open for a prize!' WHERE entry=5858;
 UPDATE locales_item SET description_loc2='Teaches you how to craft Fine Leather Pants.' WHERE entry=5972;
 UPDATE locales_item SET description_loc2='Teaches you how to craft Barbaric Leggings.' WHERE entry=5973;
 UPDATE locales_item SET description_loc2='Teaches you how to craft a Guardian Cloak.' WHERE entry=5974;
@@ -240,7 +240,7 @@ UPDATE locales_item SET description_loc2='Venture Company Supplies' WHERE entry=
 UPDATE locales_item SET description_loc2='Venture Company Supplies' WHERE entry=6357;
 UPDATE locales_item SET description_loc2='Teaches you how to cook Rainbow Fin Albacore.' WHERE entry=6368;
 UPDATE locales_item SET description_loc2='Teaches you how to cook Rockscale Cod.' WHERE entry=6369;
-UPDATE locales_item SET name_loc2='Enchanted Powder',description_loc2='Used by Enchanters to enchant items.' WHERE entry=6374;
+UPDATE locales_item SET description_loc2='Used by Enchanters to enchant items.' WHERE entry=6374;
 UPDATE locales_item SET description_loc2='Teaches you how to permanently enchant a bracer to give +3 Spirit.' WHERE entry=6375;
 UPDATE locales_item SET name_loc2='Formula: Enchant Boots - Minor Stamina',description_loc2='Teaches you how to permanently enchant a pair of boots to grant +1 Stamina.' WHERE entry=6376;
 UPDATE locales_item SET description_loc2='Teaches you how to permanently enchant a pair of boots to grant +1 Agility.' WHERE entry=6377;
@@ -260,7 +260,7 @@ UPDATE locales_item SET description_loc2='Teaches you how to make EZ-Thro Dynami
 UPDATE locales_item SET description_loc2='Teaches you how to make an Ironforge Breastplate.' WHERE entry=6735;
 UPDATE locales_item SET description_loc2='By the hand of Khadgar' WHERE entry=6785;
 UPDATE locales_item SET description_loc2='Like driven snow, but much warmer.' WHERE entry=6787;
-UPDATE locales_item SET name_loc2='Recipe: Herb Baked Egg',description_loc2='Teaches you how to cook a Herb Baked Egg.' WHERE entry=6891;
+UPDATE locales_item SET description_loc2='Teaches you how to cook a Herb Baked Egg.' WHERE entry=6891;
 UPDATE locales_item SET description_loc2='Teaches you how to cook Smoked Bear Meat.' WHERE entry=6892;
 UPDATE locales_item SET description_loc2='This letter is sealed' WHERE entry=6926;
 UPDATE locales_item SET description_loc2='Faint letters on the cover of the locked book read, \'Tome of the Cabal.\'' WHERE entry=6931;
@@ -1963,9 +1963,9 @@ UPDATE locales_item SET description_loc2='Counts as an Air, Earth, Fire, and Wat
 UPDATE locales_item SET description_loc2='With this trusty warding talisman, no tikbalang will ever find you and steal you away to the treetops. It really works!' WHERE entry=27992;
 UPDATE locales_item SET description_loc2='They won\'t see you coming but they\'ll definitely see you leaving.' WHERE entry=28032;
 UPDATE locales_item SET description_loc2='Manufactured: Garvin the Goblin, Area 52' WHERE entry=28038;
-UPDATE locales_item SET name_loc2='Legion Missive',description_loc2='Bears the seal of Arazzius.' WHERE entry=28046;
+UPDATE locales_item SET description_loc2='Bears the seal of Arazzius.' WHERE entry=28046;
 UPDATE locales_item SET description_loc2='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28066;
-UPDATE locales_item SET name_loc2='Legion Missive',description_loc2='Bears the seal of Arazzius.' WHERE entry=28107;
+UPDATE locales_item SET description_loc2='Bears the seal of Arazzius.' WHERE entry=28107;
 UPDATE locales_item SET description_loc2='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28248;
 UPDATE locales_item SET description_loc2='Teaches you how to permanently enchant a chest item to give 15 resilience rating.' WHERE entry=28270;
 UPDATE locales_item SET name_loc2='Formula: Enchant Gloves - Spell Strike',description_loc2='Teaches you how to permanently enchant gloves to grant 15 spell hit rating.' WHERE entry=28271;
@@ -2134,7 +2134,7 @@ UPDATE locales_item SET description_loc2='The blade appears to be kept razor sha
 UPDATE locales_item SET description_loc2='The shield does not appear to have a scratch on it, as if it\'s surface was somehow magically maintained.' WHERE entry=30415;
 UPDATE locales_item SET description_loc2='The portrait of a clawed boar is prominent on the banner.' WHERE entry=30416;
 UPDATE locales_item SET description_loc2='It\'s filthy, smelly and way too big for you, but it\'s what you\'re after.' WHERE entry=30417;
-UPDATE locales_item SET name_loc2='Naga Treasure Map - Questgiver (PH)',description_loc2='X marksss the ssspot.' WHERE entry=30427;
+UPDATE locales_item SET description_loc2='X marksss the ssspot.' WHERE entry=30427;
 UPDATE locales_item SET description_loc2='You wouldn\'t even know where to begin...' WHERE entry=30428;
 UPDATE locales_item SET description_loc2='The skin stretched taut over the drum appears brittle.' WHERE entry=30432;
 UPDATE locales_item SET description_loc2='Amazingly the fletchings on this arrow are still mostly intact.  A testament to the skill of the Thunderlord hunters.' WHERE entry=30433;
