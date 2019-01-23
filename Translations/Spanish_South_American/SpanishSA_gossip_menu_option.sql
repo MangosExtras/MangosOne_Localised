@@ -910,8 +910,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc7='¿Esbirros? ¿Tributo?' 
 UPDATE locales_gossip_menu_option SET option_text_loc7='¿Un juego? ¿Estás mal de la cabeza?' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Maldito...' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Escúchame bien, te cogeré, diablillo. ¡Y te vas a enterar cuando lo haga!' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc7='¡Mueran!' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc7='Prepárate para conocer a tu creador.' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc7='¡Me gusta ser la reina! Ahora, volvamos a hablar de lo que me estabas comentando antes...' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Enséñame el garrafón que tienes a la venta, Kreeg.' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Una historia muy triste. Gracias, espíritu.' WHERE menu_id=5723 AND id=0;

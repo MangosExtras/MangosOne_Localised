@@ -835,7 +835,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Sto ascoltando, Demitria
 UPDATE locales_gossip_menu_option SET option_text_loc9='Preso alla sprovvista? Come?' WHERE menu_id=5701 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='<Annuisci>' WHERE menu_id=5702 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa ha poi fatto Ragnaros?' WHERE menu_id=5704 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc9='DIE!' WHERE menu_id=5712 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Un racconto molto triste. Grazie, spirito.' WHERE menu_id=5723 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Affascinante. Continua, per favore.' WHERE menu_id=5726 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Continua, per favore.' WHERE menu_id=5727 AND id=0;

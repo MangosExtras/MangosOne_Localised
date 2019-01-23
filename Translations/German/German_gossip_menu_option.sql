@@ -944,8 +944,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc3='Gefolgsmann? Tribut?' WH
 UPDATE locales_gossip_menu_option SET option_text_loc3='Spiel? Seid Ihr verrückt?' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Du $Gmieser kleiner:miese kleine;...' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Denkt an meine Worte, ich werde Euch finden, Wicht. Und wenn das der Fall sein wird, dann...' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc3='Sterbt!' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc3='Macht Euch bereit, vor Euren Schöpfer zu treten.' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Es ist toll der König zu sein! Nun, lasst uns auf das zurückkommen was Ihr gerade sagen wolltet...' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Zeigt mir, was ihr anzubieten habt, Kreeg.' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Eine wirklich traurige Geschichte. Ich danke Euch, Geist.' WHERE menu_id=5723 AND id=0;

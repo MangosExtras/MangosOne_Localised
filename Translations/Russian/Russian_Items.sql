@@ -4226,7 +4226,6 @@ UPDATE locales_item SET name_loc8='Выкройка: жилет лунного �
 UPDATE locales_item SET name_loc8='Учебный замок' WHERE entry=6712;
 UPDATE locales_item SET name_loc8='Драные штаны' WHERE entry=6713;
 UPDATE locales_item SET name_loc8='Динамит "Pro-100-брос"' WHERE entry=6714;
-UPDATE locales_item SET name_loc8='Разрушенный соединительный провод' WHERE entry=6715;
 UPDATE locales_item SET name_loc8='Схема: динамит "Pro-100-брос"',description_loc8='Обучает изготовлению динамита "Pro-100-брос".' WHERE entry=6716;
 UPDATE locales_item SET name_loc8='Суперразъем' WHERE entry=6717;
 UPDATE locales_item SET name_loc8='Электропеллер' WHERE entry=6718;
@@ -6451,7 +6450,6 @@ UPDATE locales_item SET name_loc8='Камень клятвы драконьег�
 UPDATE locales_item SET name_loc8='Щербатая черная коробка' WHERE entry=10590;
 UPDATE locales_item SET name_loc8='Эликсир "Кошачий глаз"' WHERE entry=10592;
 UPDATE locales_item SET name_loc8='Несовершенный фрагмент дренетиста' WHERE entry=10593;
-UPDATE locales_item SET name_loc8='Барахло Кум\'иши',description_loc8='Сундук набит всяким "хламом".' WHERE entry=10595;
 UPDATE locales_item SET name_loc8='Голова волхва Римтори' WHERE entry=10597;
 UPDATE locales_item SET name_loc8='Окровавленная голова Хетайры' WHERE entry=10598;
 UPDATE locales_item SET name_loc8='Разбитая голова Хетайры' WHERE entry=10599;
@@ -11357,7 +11355,6 @@ UPDATE locales_item SET name_loc8='Изумительный соус из Лун
 UPDATE locales_item SET name_loc8='Леденцы Стилины' WHERE entry=18633;
 UPDATE locales_item SET name_loc8='Гирозамораживающий ледяной отражатель' WHERE entry=18634;
 UPDATE locales_item SET name_loc8='Ореховая паста Беллары' WHERE entry=18635;
-UPDATE locales_item SET name_loc8='Испорченные кроссировочные кабели XL' WHERE entry=18636;
 UPDATE locales_item SET name_loc8='Большой атомарный перенаправлятор' WHERE entry=18637;
 UPDATE locales_item SET name_loc8='Гипер-излучающий отражатель пламени' WHERE entry=18638;
 UPDATE locales_item SET name_loc8='Ультра-вспышечный отражатель тьмы' WHERE entry=18639;

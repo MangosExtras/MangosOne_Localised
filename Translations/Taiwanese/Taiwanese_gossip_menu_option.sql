@@ -911,8 +911,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc5='追隨者?貢品?' WHERE
 UPDATE locales_gossip_menu_option SET option_text_loc5='遊戲?你瘋了嗎?' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc5='為什麼你這麼矮小...' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc5='記住我的話，我會抓住你的，小鬼。我會的!' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc5='死吧!' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc5='準備跟你的締造者見面吧。' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc5='當國王真好!現在，讓我們繼續談談你剛才說的事兒...' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc5='克雷格，讓我看看你都賣些什麼酒。' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc5='很悲傷的故事。謝謝你，靈魂。' WHERE menu_id=5723 AND id=0;

@@ -4209,7 +4209,6 @@ UPDATE locales_item SET name_loc6='Patrón: jubón resplandor lunar',description
 UPDATE locales_item SET name_loc6='Caja mecánica' WHERE entry=6712;
 UPDATE locales_item SET name_loc6='Pantalones rasgados' WHERE entry=6713;
 UPDATE locales_item SET name_loc6='Dinamita para tontos' WHERE entry=6714;
-UPDATE locales_item SET name_loc6='Desfibriladores estropeados' WHERE entry=6715;
 UPDATE locales_item SET name_loc6='Esquema: dinamita para tontos',description_loc6='Te enseña a hacer dinamita para tontos.' WHERE entry=6716;
 UPDATE locales_item SET name_loc6='Mecanismo eléctrico' WHERE entry=6717;
 UPDATE locales_item SET name_loc6='Electromuelle' WHERE entry=6718;
@@ -6431,7 +6430,6 @@ UPDATE locales_item SET name_loc6='Piedra de juramento del Vuelo de Ysera',descr
 UPDATE locales_item SET name_loc6='Caja negra con agujeros' WHERE entry=10590;
 UPDATE locales_item SET name_loc6='Elixir de ojo de gato' WHERE entry=10592;
 UPDATE locales_item SET name_loc6='Trozo draenetista imperfecto' WHERE entry=10593;
-UPDATE locales_item SET name_loc6='Basura de Kum\'isha',description_loc6='Un cofre lleno de "porquería"' WHERE entry=10595;
 UPDATE locales_item SET name_loc6='Cabeza de Magus Rimtori' WHERE entry=10597;
 UPDATE locales_item SET name_loc6='Cabeza ensangrentada de Hetaera' WHERE entry=10598;
 UPDATE locales_item SET name_loc6='Cabeza golpeada de Hetaera' WHERE entry=10599;
@@ -11320,7 +11318,6 @@ UPDATE locales_item SET name_loc6='Caramelo de los disturbios de Arroyo de la Lu
 UPDATE locales_item SET name_loc6='Piruleta de Styleen' WHERE entry=18633;
 UPDATE locales_item SET name_loc6='Reflector de hielo girohielo' WHERE entry=18634;
 UPDATE locales_item SET name_loc6='Barrita de nueces de Bellara' WHERE entry=18635;
-UPDATE locales_item SET name_loc6='Desfibriladores XL estropeados' WHERE entry=18636;
 UPDATE locales_item SET name_loc6='Recombobulador sublime' WHERE entry=18637;
 UPDATE locales_item SET name_loc6='Reflector de llamas hiperradiante' WHERE entry=18638;
 UPDATE locales_item SET name_loc6='Reflector de las Sombras ultradeslumbrante' WHERE entry=18639;

@@ -936,8 +936,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='追随者？贡品？' W
 UPDATE locales_gossip_menu_option SET option_text_loc4='游戏？你疯了吗？' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc4='为什么你这么矮小……' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc4='记住我的话，我会抓住你的，小鬼。我会的！' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc4='去死吧！' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc4='准备跟你的缔造者见面吧。' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc4='当国王真好！现在，让我们继续谈谈你刚才说的事儿……' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc4='克雷格，让我看看你都卖些什么酒。' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc4='很悲伤的故事。谢谢你，灵魂。' WHERE menu_id=5723 AND id=0;

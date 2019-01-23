@@ -909,8 +909,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc2='Sbires ? Tribut ?' WHE
 UPDATE locales_gossip_menu_option SET option_text_loc2='Un jeu ? Vous êtes dingue ?' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc2='Pourquoi espèce de petit…' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc2='Écoute-moi bien, diablotin. Je t\'attraperai. Et quand je te tiendrai…' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc2='Mourez !' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc2='Préparez-vous à rencontrer votre créateur.' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc2='C\'est bon d\'être le roi ! Maintenant, revenons à ce dont vous parliez juste avant…' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc2='Montrez-moi la gnôle que vous avez à vendre, Kreeg.' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc2='Une histoire très triste. Merci, esprit.' WHERE menu_id=5723 AND id=0;

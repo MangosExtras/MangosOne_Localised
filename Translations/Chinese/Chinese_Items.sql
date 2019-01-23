@@ -4219,7 +4219,6 @@ UPDATE locales_item SET name_loc4='图样：月光背心',description_loc4='教�
 UPDATE locales_item SET name_loc4='发条盒' WHERE entry=6712;
 UPDATE locales_item SET name_loc4='破裤子' WHERE entry=6713;
 UPDATE locales_item SET name_loc4='简易投掷炸弹' WHERE entry=6714;
-UPDATE locales_item SET name_loc4='报废的起搏器' WHERE entry=6715;
 UPDATE locales_item SET name_loc4='结构图：简易投掷炸弹',description_loc4='教你学会制作简易投掷炸弹。' WHERE entry=6716;
 UPDATE locales_item SET name_loc4='小齿轮' WHERE entry=6717;
 UPDATE locales_item SET name_loc4='导电器' WHERE entry=6718;
@@ -6442,7 +6441,6 @@ UPDATE locales_item SET name_loc4='伊瑟拉巨龙军团的誓言石',descriptio
 UPDATE locales_item SET name_loc4='布满孔洞的黑匣子' WHERE entry=10590;
 UPDATE locales_item SET name_loc4='猫眼药剂' WHERE entry=10592;
 UPDATE locales_item SET name_loc4='不完美的德莱尼水晶碎片' WHERE entry=10593;
-UPDATE locales_item SET name_loc4='库米沙的垃圾袋',description_loc4='里面是一大堆垃圾' WHERE entry=10595;
 UPDATE locales_item SET name_loc4='大法师雷姆托里的徽记' WHERE entry=10597;
 UPDATE locales_item SET name_loc4='染血的赫塔拉徽记' WHERE entry=10598;
 UPDATE locales_item SET name_loc4='破碎的赫塔拉徽记' WHERE entry=10599;
@@ -11343,7 +11341,6 @@ UPDATE locales_item SET name_loc4='月溪节日糖' WHERE entry=18632;
 UPDATE locales_item SET name_loc4='斯泰林的乳酸棒棒糖' WHERE entry=18633;
 UPDATE locales_item SET name_loc4='超低温寒冰偏斜器' WHERE entry=18634;
 UPDATE locales_item SET name_loc4='蓓拉的夹心巧克力' WHERE entry=18635;
-UPDATE locales_item SET name_loc4='被摧毁的地精起搏器XL型' WHERE entry=18636;
 UPDATE locales_item SET name_loc4='强力净化器' WHERE entry=18637;
 UPDATE locales_item SET name_loc4='高辐射烈焰反射器' WHERE entry=18638;
 UPDATE locales_item SET name_loc4='快速暗影反射器' WHERE entry=18639;

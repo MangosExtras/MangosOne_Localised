@@ -911,8 +911,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc1='부하? 공물?' WHERE m
 UPDATE locales_gossip_menu_option SET option_text_loc1='놀이? 미쳤어?' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc1='이 조그만 게...' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc1='잘 들어둬라. 꼭 잡고 말 테다, 이 마귀야! 잡히면 끝장인 줄 알아!' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc1='죽어라!' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc1='최후를 맞을 준비나 하시지.' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc1='왕이 되니까 좋은데! 자, 그럼 아까 얘기하던 거 말인데...' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc1='어떤 술이 있는지 좀 보여 줘, 크리그.' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc1='아주 슬픈 얘기로군요. 잘 들었습니다.' WHERE menu_id=5723 AND id=0;

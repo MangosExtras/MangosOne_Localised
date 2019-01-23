@@ -2231,7 +2231,6 @@ UPDATE locales_creature SET name_loc9='Commerciante d\'Anime Etereo' WHERE entry
 UPDATE locales_creature SET name_loc9='Spirito di Coyote' WHERE entry=28267;
 UPDATE locales_creature SET name_loc9='Grande Orso da Battaglia' WHERE entry=28363;
 UPDATE locales_creature SET name_loc9='Piccola Manta Fatua' WHERE entry=28470;
-UPDATE locales_creature SET  WHERE entry=29093;
 UPDATE locales_creature SET name_loc9='' WHERE entry=29095;
 
 SET NAMES 'latin1';

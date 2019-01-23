@@ -953,8 +953,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Приспешники? 
 UPDATE locales_gossip_menu_option SET option_text_loc8='Поиграть?! Ты сошел с ума?' WHERE menu_id=5709 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Ах ты маленький...' WHERE menu_id=5710 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Помяни мое слово, постреленок, я тебя поймаю. А уж тогда!..' WHERE menu_id=5711 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc8='Умрите!' WHERE menu_id=5712 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc8='Готовься к встрече с Создателем.' WHERE menu_id=5713 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Как хорошо быть королевой! Ладно, вернемся к нашему разговору...' WHERE menu_id=5715 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Покажите мне ваше спиртное, Криг.' WHERE menu_id=5721 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Грустная история. Спасибо, дух.' WHERE menu_id=5723 AND id=0;
