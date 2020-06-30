@@ -18,7 +18,7 @@ UPDATE `locales_quest` SET `title_loc4`='OLD Summon Felsteed' WHERE `entry`=4487
 UPDATE `locales_quest` SET `title_loc4`='OLD Summon Felsteed' WHERE `entry`=4488;
 UPDATE `locales_quest` SET `title_loc4`='OLD Summon Felsteed' WHERE `entry`=4489;
 UPDATE `locales_quest` SET `title_loc4`='OLD Summon Felsteed' WHERE `entry`=4490;
-UPDATE `locales_quest` SET `details_loc4`='Kill 6 sheep for Benny and then run like hell!$B$BJust kidding... about the running part.',`objectives_loc4`='Kill 6 sheep for Benny and then run like hell!$B$BJust kidding... about the running part.' WHERE `entry`=5101;
+UPDATE `locales_quest` SET `details_loc4`='Bah! What do think this is, some kind of Test Quest? I be there even be typos in it!$B$BIf ya be thinkin\' my quest is goin\' ta be easy, then ya got another thing coming!$B$BKill me ten sheep (1933) and don\'t come back until you do!',`objectives_loc4`='Kill 6 sheep for Benny and then run like hell!$B$BJust kidding... about the running part.' WHERE `entry`=5101;
 UPDATE `locales_quest` SET `offerrewardtext_loc4`='Ah, there is plenty in here for study. Well done, $N!$B$BFor now, the next step is in our hands. We\'ll need to produce a list of reagents that, when combined with what is already in the cauldron, will act as its counter.$B$BThe only way we will be able to introduce this is by placing the reagents into the cauldron directly. Alchemist Arbington will have more information on that, so be sure to speak with him at your earliest convenience.' WHERE `entry`=5220;
 UPDATE `locales_quest` SET `objectives_loc4`='Take the Bag of Horrors to Eva Sarkhoff on Caer Darrow.' WHERE `entry`=5383;
 UPDATE `locales_quest` SET `title_loc4`='OLD Stars of Elune' WHERE `entry`=5627;
