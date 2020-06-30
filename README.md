@@ -31,8 +31,9 @@ This will populate the localised tables with empty entries ready for the languag
 
 2) Import the language pack you want from \Translations\<Language>
 
-The language pack currently consists of 13 files:
+The language pack currently consists of 14 files:
 
+    <Language>_CommandHelp.sql
     <Language>_Creature.sql
     <Language>_Creature_AI_Texts.sql
     <Language>_Gameobject.sql
@@ -60,8 +61,9 @@ The 13 files ending in `_missing.sql` are entries that need to be translated.
 
 2) Then Import the language pack you want from \Translations\<Language>
 
-The language pack currently consists of 13 files:
+The language pack currently consists of 14 files:
 
+    <Language>_CommandHelp.sql
     <Language>_Creature.sql
     <Language>_Creature_AI_Texts.sql
     <Language>_Gameobject.sql

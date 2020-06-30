@@ -47,7 +47,7 @@ print(str(langFolderName))
 
 
 # setting other
-path = input("enter your MangosZero_Localised folder PATH(like: /root/MangosOne_Localised/ ) : ")
+path = input("enter your MangosOne_Localised folder PATH(like: /root/MangosOne_Localised/ ) : ")
 path = path.strip()
 if path[-1] != "/":
     path = path + "/"

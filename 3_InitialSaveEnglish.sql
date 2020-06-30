@@ -83,7 +83,7 @@ SET `locales_npc_text`.`Text0_0_loc0` = `npc_text`.`Text0_0`,
     `locales_npc_text`.`Text7_1_loc0` = `npc_text`.`Text7_1`;
 
 -- 14/14
--- UPDATE `locales_command`
--- INNER JOIN `command` ON `locales_command`.`id` = `command`.`id`
--- SET `locales_command`.`help_text_loc0` = `command`.`help_text`;
+UPDATE `locales_command`
+INNER JOIN `command` ON `locales_command`.`id` = `command`.`id`
+SET `locales_command`.`help_text_loc0` = `command`.`help_text`;
 
