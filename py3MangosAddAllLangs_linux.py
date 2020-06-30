@@ -43,7 +43,7 @@ print(declaraction1)
 
 
 # setting other
-path = input("enter your MangosZero_Localised folder PATH(like: /root/MangosOne_Localised/ ) : ")
+path = input("enter your MangosOne_Localised folder PATH(like: /root/MangosOne_Localised/ ) : ")
 path = path.strip()
 if path[-1] != "/":
     path = path + "/"
@@ -60,14 +60,14 @@ if len(path) < 2 or len(selectSqlType) == 0 or len(sqlHost) == 0 or len(sqlPort)
 
 # get sql connect secert and set sqlExecCMD
 if selectSqlType == "1":
-    print("enter your sql coneect PASSWORD ")
+    print("enter your sql connect PASSWORD ")
     secretCMD = "mysql_config_editor set --login-path=local --host={sqlHost} --port={sqlPort} --user={sqlUserName} --password --skip-warn".format(sqlHost=sqlHost, sqlPort=sqlPort, sqlUserName=sqlUserName)
     os.system(secretCMD)
     print(secretCMD)
     sqlExecCMD = "mysql --login-path=local -q -s " + one_worldDBName + " <  "
 elif selectSqlType == "2":
-    mariaPassword = intput ( "input your sql coneect PASSWORD : ")
-    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, zero_worldDBName=one_worldDBName)
+    mariaPassword = intput ( "input your sql connect PASSWORD : ")
+    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, one_worldDBName=one_worldDBName)
 else:
     raise TypeError("dbType Fail , when select sql Type must input 1 or 2 only")
     

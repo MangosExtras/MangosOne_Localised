@@ -3,10 +3,10 @@ import os
 
 # select setting :
 declaraction1 = """
-did you already have MangosZero_Localised.git?
+did you already have MangosOne_Localised.git?
 if haven't .
     please Ctrl+C then:
-    git clone --recurse-submodules https://github.com/MangosExtras/MangosZero_Localised.git
+    git clone --recurse-submodules https://github.com/MangosExtras/MangosOne_Localised.git
 
 test environment : debian10, mysql8.0, python3, chinese, 2018-10-06; other not test,good luck >_<
 bug : QQ32686647; skype:fevefun@hotmail.com
@@ -56,20 +56,20 @@ selectSqlType = input("select you sql type Number (1 or 2)(1=mysql, 2=mariaDB) :
 sqlHost = input("database connect Address is(like: 192.168.1.1) : ")
 sqlPort = input("database connect Port is(like: 3306) : ")
 sqlUserName = input("database connect UserName is(like: mangos) : ")
-zero_worldDBName = input("input worldDB in SQL's name(like: zero_world)  : ")
+one_worldDBName = input("input worldDB in SQL's name(like: one_world)  : ")
 
 
 
 # get sql connect secert and set sqlExecCMD
 if selectSqlType == "1":
-    print("enter your sql coneect PASSWORD ")
+    print("enter your sql connect PASSWORD ")
     secretCMD = "mysql_config_editor set --login-path=local --host={sqlHost} --port={sqlPort} --user={sqlUserName} --password --skip-warn".format(sqlHost=sqlHost, sqlPort=sqlPort, sqlUserName=sqlUserName)
     os.system(secretCMD)
     print(secretCMD)
-    sqlExecCMD = "mysql --login-path=local -q -s " + zero_worldDBName + " <  "
+    sqlExecCMD = "mysql --login-path=local -q -s " + one_worldDBName + " <  "
 elif selectSqlType == "2":
-    mariaPassword = intput ( "input your sql coneect PASSWORD : ")
-    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, zero_worldDBName=zero_worldDBName)
+    mariaPassword = intput ( "input your sql connect PASSWORD : ")
+    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, one_worldDBName=one_worldDBName)
 else:
     raise TypeError("dbType Fail , when select sql Type must input 1 or 2 only")
 
