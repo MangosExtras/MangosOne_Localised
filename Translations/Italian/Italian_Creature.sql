@@ -91,7 +91,6 @@ UPDATE `locales_creature` SET `name_loc9`='Maresciallo Haggard' WHERE `entry`=29
 UPDATE `locales_creature` SET `name_loc9`='Locandiere Farley',`subname_loc9`='Locandiere' WHERE `entry`=295;
 UPDATE `locales_creature` SET `name_loc9`='Cucciolo di Lupo' WHERE `entry`=299;
 UPDATE `locales_creature` SET `name_loc9`='Cavalcare (Stallone Bianco)' WHERE `entry`=305;
-UPDATE `locales_creature` SET `name_loc9`='Cavalcare (Palomino)' WHERE `entry`=306;
 UPDATE `locales_creature` SET `name_loc9`='Cadavere di Rolf' WHERE `entry`=309;
 UPDATE `locales_creature` SET `name_loc9`='',`subname_loc9`='Mago della Torre di Azora' WHERE `entry`=313;
 UPDATE `locales_creature` SET `name_loc9`='',`subname_loc9`='Sposa dell\'Imbalsamatore' WHERE `entry`=314;
@@ -1283,7 +1282,6 @@ UPDATE `locales_creature` SET `name_loc9`='Guardaboschi Sareyn' WHERE `entry`=15
 UPDATE `locales_creature` SET `name_loc9`='Faerlina la Vedova Nera' WHERE `entry`=15953;
 UPDATE `locales_creature` SET `name_loc9`='Noth l\'Araldo della Piaga' WHERE `entry`=15954;
 UPDATE `locales_creature` SET `name_loc9`='Anub\'rekhan' WHERE `entry`=15956;
-UPDATE `locales_creature` SET `name_loc9`='Zaffirion' WHERE `entry`=15989;
 UPDATE `locales_creature` SET `name_loc9`='Martellaccio del Gladiatore Malvagio' WHERE `entry`=16015;
 UPDATE `locales_creature` SET `name_loc9`='Scienziato Pazzo' WHERE `entry`=16020;
 UPDATE `locales_creature` SET `name_loc9`='Veleno Vivente' WHERE `entry`=16027;
