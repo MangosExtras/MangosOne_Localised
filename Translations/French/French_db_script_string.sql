@@ -215,6 +215,8 @@ UPDATE `db_script_string` SET `content_loc2`='Je n\'ai pas encore découvert de 
 UPDATE `db_script_string` SET `content_loc2`='%s jette l\'épée dans le bassin.' WHERE `entry`=2000005096;
 UPDATE `db_script_string` SET `content_loc2`='J\'ai découvert que lorsque je jetais quelque chose dans l\'eau, l\'objet s\'améliorait incroyablement.' WHERE `entry`=2000005097;
 UPDATE `db_script_string` SET `content_loc2`='Eh bien, quoi que ce soit, ça fonctionne très bien !' WHERE `entry`=2000005098;
+UPDATE `db_script_string` SET `content_loc2`='Pain frais' WHERE `entry`=2000005099;
+UPDATE `db_script_string` SET `content_loc2`='Pain frais' WHERE `entry`=2000005101;
 UPDATE `db_script_string` SET `content_loc2`='C\'est moi qui transporte toute l\'eau par ici.' WHERE `entry`=2000005103;
 UPDATE `db_script_string` SET `content_loc2`='Où est l\'eau, Emma ? Va chercher l\'eau, Emma ! Si je m\'en chargeais pas, y\'en aurait beaucoup qui n\'sauraient pas à quoi r\'semble l\'eau.' WHERE `entry`=2000005104;
 UPDATE `db_script_string` SET `content_loc2`='Comme si, à mon grand âge, je n\'avais pas mieux à faire que de porter des seaux d\'eau.' WHERE `entry`=2000005106;

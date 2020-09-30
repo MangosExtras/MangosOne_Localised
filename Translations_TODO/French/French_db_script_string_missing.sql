@@ -76,9 +76,7 @@ UPDATE `trans_words` SET `content_loc2`='This is the last time that I buy second
 UPDATE `trans_words` SET `content_loc2`='Not a challenge at all it seems. Let us see how hou handle your second test. Lysta, bring forth the minions of the Lich King.' WHERE `word_id` = 7561; -- db_script_string - content : entry=2000005073
 UPDATE `trans_words` SET `content_loc2`='It is time to force your final challenge young warriors! Prepare for your hardest fight yet.' WHERE `word_id` = 7559; -- db_script_string - content : entry=2000005075
 UPDATE `trans_words` SET `content_loc2`='Oh sweet, delicious, spotted eggs - you will be mine...' WHERE `word_id` = 7573; -- db_script_string - content : entry=2000005093
-UPDATE `trans_words` SET `content_loc2`='Fresh bread for sale' WHERE `word_id` = 7515; -- db_script_string - content : entry=2000005099
 UPDATE `trans_words` SET `content_loc2`='Get it while its hot' WHERE `word_id` = 7516; -- db_script_string - content : entry=2000005100
-UPDATE `trans_words` SET `content_loc2`='Fresh bread for sale' WHERE `word_id` = 7515; -- db_script_string - content : entry=2000005101
 UPDATE `trans_words` SET `content_loc2`='Get it while its hot' WHERE `word_id` = 7516; -- db_script_string - content : entry=2000005102
 UPDATE `trans_words` SET `content_loc2`='Of Course Im talking to myself. Only way to get a decent conversation in this city.' WHERE `word_id` = 7519; -- db_script_string - content : entry=2000005105
 UPDATE `trans_words` SET `content_loc2`='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE `word_id` = 5747; -- db_script_string - content : entry=2000005107
