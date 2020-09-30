@@ -40,6 +40,7 @@ UPDATE `locales_npc_text` SET `Text0_0_loc9`='Volevo urlare ma solo un lieve sus
 UPDATE `locales_npc_text` SET `Text0_0_loc9`='Che l\'entità di Sironas avesse piani per Saruan ...$B$B<La scrittura si interrompe bruscamente e una lunga riga scorre fuori dalla pagina. Questo draenei è morto mentre faceva l\'entrata.>$B$' WHERE `entry`=9082;
 UPDATE `locales_npc_text` SET `Text0_0_loc9`='Hai sentito che hanno perso il controllo totale di Murmur nel Shadow Labyrinth?!',`Text0_1_loc9`='Hai sentito che hanno perso il controllo totale di Murmur nel Shadow Labyrinth?!' WHERE `entry`=9523;
 UPDATE `locales_npc_text` SET `Text0_0_loc9`='Troverete una serie di formatori di sciamani nella Sala dei cristalli. Forse dovresti visitare il Farseer Nobundo lì, e mostrare ai Rotti un po\'di pietà. La luce sia con te.' WHERE `entry`=9556;
+UPDATE `locales_npc_text` SET `Text0_0_loc9`='"L\'armatura è la mia passione! Non darmi da mangiare, lasciami aggiustare qualcosa! Dopo la morte, nulla è cambiato, quindi immagina di essere un vero Draenei vivente, $Gstranger:straniero;. Fammi ricordare com\'è vivere ... E fammi l\'onore di riparare la tua armatura."' WHERE `entry`=9936;
 UPDATE `locales_npc_text` SET `Text0_0_loc9`='Testo IT mancante' WHERE `entry`=10059;
 UPDATE `locales_npc_text` SET `Text0_0_loc9`='Testo IT mancante' WHERE `entry`=10061;
 UPDATE `locales_npc_text` SET `Text0_0_loc9`='I Scryer ti hanno mandato a contattarmi? Non assomigli affatto a un phon.' WHERE `entry`=10211;
