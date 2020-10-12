@@ -111,8 +111,6 @@ UPDATE `trans_words` SET `content_loc2`='Shattered Sun scum! Fire at will!' WHER
 UPDATE `trans_words` SET `content_loc2`='Dragonhawk incoming from the west! Shoot that druid down!' WHERE `word_id` = 6269; -- creature_ai_texts - content : entry=-403
 UPDATE `trans_words` SET `content_loc2`='I cannot permit you to enter the temple! I must destroy you for your own good!' WHERE `word_id` = 5762; -- creature_ai_texts - content : entry=-404
 UPDATE `trans_words` SET `content_loc2`='Spare some change for a poor blind man?...What do you mean I\'m not blind?...I\'M NOT BLIND! I CAN SEE! ITS A MIRACLE!' WHERE `word_id` = 5754; -- creature_ai_texts - content : entry=-412
-UPDATE `trans_words` SET `content_loc2`='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE `word_id` = 5747; -- creature_ai_texts - content : entry=-425
-UPDATE `trans_words` SET `content_loc2`='O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city.' WHERE `word_id` = 5744; -- creature_ai_texts - content : entry=-428
 UPDATE `trans_words` SET `content_loc2`='Is it true? Are there crocolisks in the canal?' WHERE `word_id` = 5741; -- creature_ai_texts - content : entry=-431
 UPDATE `trans_words` SET `content_loc2`='Looks like you\'ll have to go ahead to Ratchet and tell Sputtervalve that I\'ve wrecked the shredder.' WHERE `word_id` = 5736; -- creature_ai_texts - content : entry=-436
 UPDATE `trans_words` SET `content_loc2`='I\'ll stay behind and guard the wreck. Hurry! Hopefully no one will notice the smoke...' WHERE `word_id` = 5735; -- creature_ai_texts - content : entry=-437
@@ -126,7 +124,6 @@ UPDATE `trans_words` SET `content_loc2`='Aku\'mai is dead! At last, I can leave 
 UPDATE `trans_words` SET `content_loc2`='You... are nothing!' WHERE `word_id` = 6249; -- creature_ai_texts - content : entry=-573
 UPDATE `trans_words` SET `content_loc2`='No! You must no do this!' WHERE `word_id` = 5679; -- creature_ai_texts - content : entry=-579
 UPDATE `trans_words` SET `content_loc2`='By the Light, you will leave this tomb!' WHERE `word_id` = 5677; -- creature_ai_texts - content : entry=-581
-UPDATE `trans_words` SET `content_loc2`='They all go to the Spire but none never come back... just like Bijou.' WHERE `word_id` = 5673; -- creature_ai_texts - content : entry=-585
 UPDATE `trans_words` SET `content_loc2`='When do we eat again?' WHERE `word_id` = 6246; -- creature_ai_texts - content : entry=-588
 UPDATE `trans_words` SET `content_loc2`='Don\'t feel.....so good.....' WHERE `word_id` = 6245; -- creature_ai_texts - content : entry=-589
 UPDATE `trans_words` SET `content_loc2`='That one where thousands of people are all watching us up from the sky...' WHERE `word_id` = 6237; -- creature_ai_texts - content : entry=-598
