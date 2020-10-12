@@ -5,6 +5,7 @@ UPDATE `db_script_string` SET `content_loc8`='Сражение вот вот н�
 UPDATE `db_script_string` SET `content_loc8`='$N против свирепого копытня, Хромонога!' WHERE `entry`=2000000003;
 UPDATE `db_script_string` SET `content_loc8`='Что случилось?' WHERE `entry`=2000000009;
 UPDATE `db_script_string` SET `content_loc8`='Ладно, идем!' WHERE `entry`=2000000017;
+UPDATE `db_script_string` SET `content_loc8`='Дальше я сама дойду, $N. Спасибо!!!' WHERE `entry`=2000000018;
 UPDATE `db_script_string` SET `content_loc8`='Будьте терпеливым $N. Факел почти зажжен.' WHERE `entry`=2000000019;
 UPDATE `db_script_string` SET `content_loc8`='Это интересно...' WHERE `entry`=2000000020;
 UPDATE `db_script_string` SET `content_loc8`='Я должен проконсультироваться с Норамом и Горацием.' WHERE `entry`=2000000021;

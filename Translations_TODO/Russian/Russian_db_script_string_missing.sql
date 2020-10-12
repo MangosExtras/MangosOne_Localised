@@ -7,7 +7,6 @@ UPDATE `trans_words` SET `content_loc8`='Oh no! They a here!' WHERE `word_id` = 
 UPDATE `trans_words` SET `content_loc8`='Oh, hello Grimclaw.' WHERE `word_id` = 7588; -- db_script_string - content : entry=2000000014
 UPDATE `trans_words` SET `content_loc8`='Ok, $N. Now i can go the the Auberdine alone. Go to Terenthis. He waits for you. Thanks for the help.' WHERE `word_id` = 7589; -- db_script_string - content : entry=2000000015
 UPDATE `trans_words` SET `content_loc8`='Ok, good luck friend. Thanks for the help.' WHERE `word_id` = 7590; -- db_script_string - content : entry=2000000016
-UPDATE `trans_words` SET `content_loc8`='I can make it the rest of the way. $N. THANKS!' WHERE `word_id` = 732; -- db_script_string - content : entry=2000000018
 UPDATE `trans_words` SET `content_loc8`='This makes sense!' WHERE `word_id` = 6955; -- db_script_string - content : entry=2000000030
 UPDATE `trans_words` SET `content_loc8`='begins a spell of summoning...' WHERE `word_id` = 7591; -- db_script_string - content : entry=2000000043
 UPDATE `trans_words` SET `content_loc8`='Glowing Soulgem bursts open!' WHERE `word_id` = 6967; -- db_script_string - content : entry=2000000078
