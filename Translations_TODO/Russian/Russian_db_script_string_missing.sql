@@ -12,7 +12,6 @@ UPDATE `trans_words` SET `content_loc8`='begins a spell of summoning...' WHERE `
 UPDATE `trans_words` SET `content_loc8`='Glowing Soulgem bursts open!' WHERE `word_id` = 6967; -- db_script_string - content : entry=2000000078
 UPDATE `trans_words` SET `content_loc8`='Ok, let\'s get started!' WHERE `word_id` = 7422; -- db_script_string - content : entry=2000000096
 UPDATE `trans_words` SET `content_loc8`='%s reads from the book of the dead.' WHERE `word_id` = 268248; -- db_script_string - content : entry=2000000488
-UPDATE `trans_words` SET `content_loc8`='Shane Dabiri, Lee, Alex T., Rob F., J. A. B., A. Mayberry!' WHERE `word_id` = 268221; -- db_script_string - content : entry=2000000489
 UPDATE `trans_words` SET `content_loc8`='BY THE LIGHT OF ELUNE! Eredar! Cursed demons, what have you to me? I have not come alone, we will fight you as we have in the past! I...' WHERE `word_id` = 7636; -- db_script_string - content : entry=2000000660
 UPDATE `trans_words` SET `content_loc8`='Yes right away momma!' WHERE `word_id` = 7066; -- db_script_string - content : entry=2000005011
 UPDATE `trans_words` SET `content_loc8`='Our oldest clutch of dragons are still far from maturity, but with patience and study, we are confident the dragons will soon be ready.' WHERE `word_id` = 7078; -- db_script_string - content : entry=2000005029

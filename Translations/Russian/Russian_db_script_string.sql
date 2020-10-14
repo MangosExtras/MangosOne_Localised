@@ -126,6 +126,7 @@ UPDATE `db_script_string` SET `content_loc8`='%s убегает, пытаясь 
 UPDATE `db_script_string` SET `content_loc8`='Нашел что-нибудь интересное для охоты, Сверкунчик? Знаю, что нашел!' WHERE `entry`=2000000404;
 UPDATE `db_script_string` SET `content_loc8`='Только ты и я, Сверкунчик. Папочка не собирается возвращаться домой.' WHERE `entry`=2000000405;
 UPDATE `db_script_string` SET `content_loc8`='Интересно, как далеко оно может зашвырнуть вон того белого кота?..' WHERE `entry`=2000000406;
+UPDATE `db_script_string` SET `content_loc8`='Шейн Дабири, Ли, Алекс Т., Роб Ф., Дж. А. Б., Э. Мэйберри!' WHERE `entry`=2000000489;
 UPDATE `db_script_string` SET `content_loc8`='Джеффри Каплан! Том Чилтон! Роб Пардо!' WHERE `entry`=2000000490;
 UPDATE `db_script_string` SET `content_loc8`='Джастин Тевайрет! Роман Кенней! Вся наша неповторимая команда графики и анимации!' WHERE `entry`=2000000491;
 UPDATE `db_script_string` SET `content_loc8`='Кевин Джордан и Джонатан Лекрафт!' WHERE `entry`=2000000492;
