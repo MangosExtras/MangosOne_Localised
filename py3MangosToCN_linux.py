@@ -68,8 +68,8 @@ if selectSqlType == "1":
     print(secretCMD)
     sqlExecCMD = "mysql --login-path=local -q -s " + one_worldDBName + " <  "
 elif selectSqlType == "2":
-    mariaPassword = intput ( "input your sql connect PASSWORD : ")
-    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, one_worldDBName=one_worldDBName)
+    mariaPassword = input ( "input your sql connect PASSWORD : ")
+    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {one_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, sqlUserName=sqlUserName, mariaPassword=mariaPassword, one_worldDBName=one_worldDBName)
 else:
     raise TypeError("dbType Fail , when select sql Type must input 1 or 2 only")
 
