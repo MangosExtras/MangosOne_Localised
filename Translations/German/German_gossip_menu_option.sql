@@ -397,6 +397,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Alles wird gut, Awbe
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Durchaus.' WHERE `menu_id`=3064 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Entsetzlich.' WHERE `menu_id`=3065 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte, sprecht weiter...' WHERE `menu_id`=3066 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=3130 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Eridan, ich habe die Flöte der Urtume verloren und benötige Ersatz.' WHERE `menu_id`=3142 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas von Euch kaufen.' WHERE `menu_id`=3162 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas kaufen.' WHERE `menu_id`=3181 AND `id`=0;
@@ -2533,6 +2534,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bringt mich zu Mekka
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Beleidigt Coren Düsterbräus Gebräu.' WHERE `menu_id`=11387 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Es tut gut zu sehen, wie die Brennende Klinge dort das Szepter übernimmt, wo der Schattenrat einst versagt hat.' WHERE `menu_id`=20005 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Die Sengende Klinge ist also entbehrlich?' WHERE `menu_id`=20006 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wenn es irgendetwas gibt, das Ich für Euch tun kann...' WHERE `menu_id`=20007 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ja, bitte doch.' WHERE `menu_id`=20013 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Vergebt mir - ich wusste nicht, dass Ihr versteht, was ich sage. Was genau macht Ihr hier draußen?' WHERE `menu_id`=20015 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ach ja? Vielleicht solltet Ihr mir sagen, was Euch bedrückt.' WHERE `menu_id`=20016 AND `id`=0;
