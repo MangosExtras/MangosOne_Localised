@@ -10627,6 +10627,7 @@ UPDATE `locales_creature` SET `name_loc2`='Capitaine Korfang' WHERE `entry`=1759
 UPDATE `locales_creature` SET `name_loc2`='Péon mâche-les-os' WHERE `entry`=17595;
 UPDATE `locales_creature` SET `name_loc2`='Lieutenant des Flammes infernales' WHERE `entry`=17596;
 UPDATE `locales_creature` SET `name_loc2`='[PH] Capitaine Lévidence Junior' WHERE `entry`=17597;
+UPDATE `locales_creature` SET `subname_loc2`='Vendeur de munitions' WHERE `entry`=17598;
 UPDATE `locales_creature` SET `name_loc2`='Cartographe draeneï' WHERE `entry`=17600;
 UPDATE `locales_creature` SET `name_loc2`='Elekk de bât' WHERE `entry`=17601;
 UPDATE `locales_creature` SET `name_loc2`='Petit Chaperon rouge (transformation)' WHERE `entry`=17602;
@@ -12127,7 +12128,7 @@ UPDATE `locales_creature` SET `subname_loc2`='Maître des coursiers du vent' WHE
 UPDATE `locales_creature` SET `subname_loc2`='Banquier' WHERE `entry`=19318;
 UPDATE `locales_creature` SET `name_loc2`='Aubergiste Darg Griffe-de-sang',`subname_loc2`='Aubergiste' WHERE `entry`=19319;
 UPDATE `locales_creature` SET `name_loc2`='Protecteur de l\'Aube' WHERE `entry`=19320;
-UPDATE `locales_creature` SET `name_loc2`='Intendant Endarin' WHERE `entry`=19321;
+UPDATE `locales_creature` SET `name_loc2`='Intendant Endarin',`subname_loc2`='Aldor : intendant' WHERE `entry`=19321;
 UPDATE `locales_creature` SET `name_loc2`='Gardien de l\'Aube' WHERE `entry`=19322;
 UPDATE `locales_creature` SET `name_loc2`='Griffon bombardier cuirassé' WHERE `entry`=19324;
 UPDATE `locales_creature` SET `subname_loc2`='Maître des écuries' WHERE `entry`=19325;

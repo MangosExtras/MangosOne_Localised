@@ -1116,8 +1116,6 @@ UPDATE `trans_words` SET `content_loc2`='Tito' WHERE `word_id`=84782; -- locales
 UPDATE `trans_words` SET `content_loc2`='Tavara' WHERE `word_id`=84785; -- locales_creature - name : entry=17551
 UPDATE `trans_words` SET `content_loc2`='Lieutenant Chadwick' WHERE `word_id`=84791; -- locales_creature - name : entry=17557
 UPDATE `trans_words` SET `content_loc2`='Caza\'rez' WHERE `word_id`=84792; -- locales_creature - name : entry=17558
-UPDATE `trans_words` SET `content_loc2`='Renn\'az' WHERE `word_id`=81853; -- locales_creature - name : entry=17598
-UPDATE `trans_words` SET `content_loc2`='Ammunition Vendor' WHERE `word_id`=81854; -- locales_creature - subname : entry=17598
 UPDATE `trans_words` SET `content_loc2`='Aonar' WHERE `word_id`=84834; -- locales_creature - name : entry=17599
 UPDATE `trans_words` SET `content_loc2`='Auctioneer' WHERE `word_id`=83898; -- locales_creature - subname : entry=17627
 UPDATE `trans_words` SET `content_loc2`='Auctioneer' WHERE `word_id`=83898; -- locales_creature - subname : entry=17628
@@ -1269,7 +1267,6 @@ UPDATE `trans_words` SET `content_loc2`='Perry Gatner' WHERE `word_id`=86428; --
 UPDATE `trans_words` SET `content_loc2`='Shattrath Saul' WHERE `word_id`=86474; -- locales_creature - name : entry=19270
 UPDATE `trans_words` SET `content_loc2`='Vagabond' WHERE `word_id`=86491; -- locales_creature - name : entry=19289
 UPDATE `trans_words` SET `content_loc2`='Tola\'thion' WHERE `word_id`=86495; -- locales_creature - name : entry=19293
-UPDATE `trans_words` SET `content_loc2`='Aldor: Quartermaster' WHERE `word_id`=86521; -- locales_creature - subname : entry=19321
 UPDATE `trans_words` SET `content_loc2`='Scryers: Quartermaster' WHERE `word_id`=86533; -- locales_creature - subname : entry=19331
 UPDATE `trans_words` SET `content_loc2`='Naladu' WHERE `word_id`=86564; -- locales_creature - name : entry=19361
 UPDATE `trans_words` SET `content_loc2`='Test Elemental Totem' WHERE `word_id`=86636; -- locales_creature - name : entry=19430
