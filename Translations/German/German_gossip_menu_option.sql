@@ -847,6 +847,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Kel\'Thuzad' WHERE `
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Zeigt mir, worauf ich Zugriff habe, Lokhtos.' WHERE `menu_id`=4781 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte, dass mein Begleiter alles verlernt.' WHERE `menu_id`=4783 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte, dass mein Begleiter alles verlernt.' WHERE `menu_id`=4783 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte meinen Begleiter trainieren.' WHERE `menu_id`=4783 AND `id`=3;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte unterrichtet mich.' WHERE `menu_id`=4822 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte unterrichtet mich.' WHERE `menu_id`=4826 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich benötige eine Ausbildung.' WHERE `menu_id`=4844 AND `id`=0;
