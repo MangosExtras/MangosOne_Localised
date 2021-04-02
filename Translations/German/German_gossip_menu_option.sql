@@ -2223,8 +2223,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ihr könnt mir vertr
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Habt Ihr vielleicht eine Orange über?' WHERE `menu_id`=9724 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Habt Ihr vielleicht ein paar Bananen übrig?' WHERE `menu_id`=9724 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich könnte wirklich eine Papaya gebrauchen.' WHERE `menu_id`=9724 AND `id`=2;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Östlicher Zeppelinturm' WHERE `menu_id`=9727 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Westlicher Zeppelinturm' WHERE `menu_id`=9727 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Zeppelinturm' WHERE `menu_id`=9727 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='<Suche nach Puls...>' WHERE `menu_id`=9728 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich bin bereit, Euch zu begleiten, Drakuru.' WHERE `menu_id`=9731 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Die Häuptlinge der Drakkari liegen in Ketten! Was soll ich noch für Euch tun?' WHERE `menu_id`=9731 AND `id`=4;

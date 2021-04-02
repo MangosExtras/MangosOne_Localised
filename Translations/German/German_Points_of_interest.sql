@@ -101,8 +101,7 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Botschaft der Horde' W
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Gasthaus von Orgrimmar' WHERE `entry`=179;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Briefkasten von Orgrimmar' WHERE `entry`=180;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Auktionshaus von Orgrimmar' WHERE `entry`=181;
-UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Östlicher Zeppelinturm von Orgrimmar' WHERE `entry`=182;
-UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Westlicher Zeppelinturm von Orgrimmar' WHERE `entry`=183;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Zeppelinturm von Orgrimmar' WHERE `entry`=183;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Sayoc und Hanashi' WHERE `entry`=184;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Die Halle der Legenden' WHERE `entry`=186;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Kampfmeister von Orgrimmar' WHERE `entry`=187;
@@ -173,7 +172,7 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Schurkenlehrer von Unt
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Priesterlehrer von Unterstadt' WHERE `entry`=270;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Champion Cyssa Dämmerrose' WHERE `entry`=271;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Magierlehrer von Unterstadt' WHERE `entry`=272;
-UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Teppelin von Unterstadt' WHERE `entry`=273;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Zeppelin von Unterstadt' WHERE `entry`=273;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Briefkasten von Unterstadt' WHERE `entry`=276;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Understadt Schlosser' WHERE `entry`=277;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Gasthaus von Unterstadt' WHERE `entry`=278;
