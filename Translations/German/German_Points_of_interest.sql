@@ -251,7 +251,7 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Gild
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Gasthaus' WHERE `entry`=373;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Gasthaus' WHERE `entry`=374;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Briefkasten' WHERE `entry`=375;
-UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Exodar, Stallmeisterin' WHERE `entry`=376;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Stallmeisterin' WHERE `entry`=376;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Waffenmeister' WHERE `entry`=377;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Kampfmeister' WHERE `entry`=378;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Druidenlehrer' WHERE `entry`=379;

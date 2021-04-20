@@ -4962,7 +4962,7 @@ UPDATE `locales_npc_text` SET `Text0_0_loc3`='Es grenzt an Frevel, dass diese Ge
 UPDATE `locales_npc_text` SET `Text0_0_loc3`='Dieser Außenposten ist zahnradfreie Zone. Leute, die beim Bau von mechanischen Geräten Zahnräder verwenden, werden erbarmungslos verspottet.' WHERE `entry`=13306;
 UPDATE `locales_npc_text` SET `Text0_0_loc3`='Sieht so aus, als hättet Ihr dieselbe Idee gehabt wie ich. Ihr jagt den Früchten nach, oder?' WHERE `entry`=13307;
 UPDATE `locales_npc_text` SET `Text0_0_loc3`='Loken?! Das ist doch einfach lästig... Wir haben vielleicht die Eisenzwerge ausgeschaltet, doch ich möchte wetten, dass es irgendwo noch eine weitere Maschine gibt, die am laufenden Band massenweise Eisenvrykul ausspuckt.' WHERE `entry`=13308;
-UPDATE `locales_npc_text` SET `Text0_0_loc3`='Verlasst die Stadt und sucht im Südosten nach dem östlichen Zeppelinlandeturm.' WHERE `entry`=13311;
+UPDATE `locales_npc_text` SET `Text0_0_loc3`='Verlasst die Stadt und sucht im Südosten nach dem östlichen Zeppelinlandeturm.',`Text0_1_loc3`='Verlasst die Stadt und sucht im Südosten nach dem östlichen Zeppelinlandeturm.' WHERE `entry`=13311;
 UPDATE `locales_npc_text` SET `Text0_0_loc3`='Der Mooswandler sieht schwer verwundet aus.' WHERE `entry`=13318;
 UPDATE `locales_npc_text` SET `Text0_0_loc3`='Meine arme Flugmaschine. Sie hat den Absturz nicht überlebt und ohne Ersatzteile kriege ich sie nie wieder zum Laufen!' WHERE `entry`=13322;
 UPDATE `locales_npc_text` SET `Text0_0_loc3`='Schon bald, $N!$B$BSchon bald werdet Ihr den Geschmack wahrer Macht kennen lernen. Schon bald werdet Ihr für Euren Einsatz und Eure Dienste belohnt werden.' WHERE `entry`=13324;
