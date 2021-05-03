@@ -4,6 +4,7 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Gasthaus Zur Höhle de
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Bruder Wilhelm' WHERE `entry`=3;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Priesterin Josetta' WHERE `entry`=4;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Maximillian Raab' WHERE `entry`=6;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Alchimist Mallory' WHERE `entry`=8;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Schmied Argus' WHERE `entry`=9;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Lee Braun' WHERE `entry`=12;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Adele Fädler' WHERE `entry`=14;
@@ -146,6 +147,7 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Odesyus’ Ankerplatz,
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Odesyus’ Ankerplatz, Kochkunstlehrer' WHERE `entry`=229;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Azurwacht, Ingenieurslehrer' WHERE `entry`=230;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Azurwacht, Lehrer für Erste Hilfe' WHERE `entry`=231;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Am''menfluss, Angellehrerin' WHERE `entry`=232;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Azurwacht, Kräuterkundelehrer' WHERE `entry`=233;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Tannenruhfeste, Lederverarbeitungslehrer' WHERE `entry`=234;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Azurwacht, Bergbaulehrer' WHERE `entry`=235;
@@ -240,6 +242,8 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Shattrath Stall der Se
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Shattrath Kampfmeister der Allianz' WHERE `entry`=358;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Shattrath Kampfmeister der Horde' WHERE `entry`=359;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Shattrath Arenakampfmeister' WHERE `entry`=360;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Shattrath Juwelenhändlerin der Adlor' WHERE `entry`=361;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Shattrath Juwelenhändlerin der Seher' WHERE `entry`=362;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Kräuterkundige Pomeroy' WHERE `entry`=363;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Tempel des Mondes' WHERE `entry`=364;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Auktionshaus' WHERE `entry`=367;
@@ -251,7 +255,7 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Gild
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Gasthaus' WHERE `entry`=373;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Gasthaus' WHERE `entry`=374;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Briefkasten' WHERE `entry`=375;
-UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Exodar, Stallmeisterin' WHERE `entry`=376;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Stallmeisterin' WHERE `entry`=376;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Waffenmeister' WHERE `entry`=377;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Kampfmeister' WHERE `entry`=378;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Stadt Silbermond, Druidenlehrer' WHERE `entry`=379;
@@ -290,6 +294,8 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Saltherils Hafen, Verz
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Falkenplatz, Lehrer für Erste Hilfe' WHERE `entry`=413;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Saltherils Hafen, Kräuterkundelehrer' WHERE `entry`=414;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Falkenplatz, Juwelierskunstlehrer' WHERE `entry`=415;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Immersangwald, Lederverarbeitungslehrer' WHERE `entry`=416;
+UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Immersangwald, Kürschnereilehrer' WHERE `entry`=417;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Schneider von Saltherils Hafen' WHERE `entry`=418;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Gerätehandel Sprungspindel' WHERE `entry`=419;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Jägerhalle von Orgrimmar' WHERE `entry`=420;
